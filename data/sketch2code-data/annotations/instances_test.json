@@ -1,0 +1,4915 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "0e883baf-e153-4a42-8e0c-f8cde7c179c3.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 2,
+      "file_name": "52840896-0073-4c1f-9aca-bbd87c17eac9.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 3,
+      "file_name": "feef1db7-6cbe-4d0d-9929-18e42ba09407.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 4,
+      "file_name": "aa7e1723-0f7c-4932-bca6-0407dc244a1f.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 5,
+      "file_name": "b5e97de6-94ce-49e9-8553-ca8a8653f35d.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 6,
+      "file_name": "05495118-dcee-4e4e-bee1-b6823096e2b7.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 7,
+      "file_name": "9d9f477c-0060-48d0-bde2-2f4cbf16d93d.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 8,
+      "file_name": "e86d7eae-07d8-49da-86c6-883cea3a87c4.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 9,
+      "file_name": "cf81631e-ee08-49b5-9c44-818024734b81.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 10,
+      "file_name": "96b1c403-5923-47cb-8bd8-99b20e12620a.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 11,
+      "file_name": "da54575a-4e89-49aa-af1a-c4d8490ba57b.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 12,
+      "file_name": "1803be9d-936c-4429-9301-2a0aaaffbb46.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 13,
+      "file_name": "db6d137e-42f1-494a-8a13-69532d740209.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 14,
+      "file_name": "8d7dfde9-323b-42b8-ae30-8665233cc870.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 15,
+      "file_name": "094573f5-917f-4350-b8b5-3c828c834b57.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 16,
+      "file_name": "b5a04858-3e4a-4db4-9117-47f7e533798a.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 17,
+      "file_name": "6fb86772-9bee-49c9-b9ea-c6e99e05af31.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 18,
+      "file_name": "1f9739ba-e178-4e15-add5-9b21ca8dc85d.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 19,
+      "file_name": "b23c633e-f3d1-42ef-bbda-d6ddaeb53a3c.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 20,
+      "file_name": "bd73cef8-a70e-483e-b0f5-81a7a81ca95d.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 21,
+      "file_name": "782ebd0a-b6bd-4607-a109-4beca493c694.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 22,
+      "file_name": "938936cd-9222-4a2a-a46a-cbb9e25d232c.png",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": 23,
+      "file_name": "39f28af1-a6d1-4620-9d9d-840450a1e6a2.png",
+      "width": 1200,
+      "height": 900
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": "Label",
+      "bbox": [
+        126.0,
+        238.7917,
+        291.0,
+        61.0
+      ],
+      "area": 17751.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1,
+      "category_id": "Label",
+      "bbox": [
+        730.0,
+        736.7917,
+        256.0,
+        64.0
+      ],
+      "area": 16384.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 1,
+      "category_id": "Label",
+      "bbox": [
+        977.0,
+        319.7917,
+        171.0,
+        71.0
+      ],
+      "area": 12141.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1,
+      "category_id": "Label",
+      "bbox": [
+        125.0,
+        547.7917,
+        184.0,
+        67.0
+      ],
+      "area": 12328.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1,
+      "category_id": "Label",
+      "bbox": [
+        401.0,
+        738.7917,
+        185.0,
+        82.0
+      ],
+      "area": 15170.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1,
+      "category_id": "Label",
+      "bbox": [
+        697.0,
+        320.7917,
+        141.0,
+        60.0
+      ],
+      "area": 8460.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 1,
+      "category_id": "Heading",
+      "bbox": [
+        101.4245,
+        30.9019,
+        1090.5983,
+        96.8354
+      ],
+      "area": 105608.52261982003,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 1,
+      "category_id": "RadioButton",
+      "bbox": [
+        137.8917,
+        745.2057,
+        181.1966,
+        70.6329
+      ],
+      "area": 12798.441328140001,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 1,
+      "category_id": "Label",
+      "bbox": [
+        1020.0,
+        718.7917,
+        100.0,
+        72.0
+      ],
+      "area": 7200.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 1,
+      "category_id": "Label",
+      "bbox": [
+        710.0,
+        547.7917,
+        438.0,
+        67.0
+      ],
+      "area": 29346.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 1,
+      "category_id": "Label",
+      "bbox": [
+        117.0,
+        315.7916,
+        307.0,
+        60.0
+      ],
+      "area": 18420.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 1,
+      "category_id": "Label",
+      "bbox": [
+        1038.0,
+        654.7917,
+        104.0,
+        57.0
+      ],
+      "area": 5928.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 1,
+      "category_id": "Label",
+      "bbox": [
+        690.0,
+        236.7917,
+        166.0,
+        56.0
+      ],
+      "area": 9296.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 1,
+      "category_id": "Label",
+      "bbox": [
+        968.0,
+        228.7917,
+        176.0,
+        71.0
+      ],
+      "area": 12496.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 1,
+      "category_id": "Heading",
+      "bbox": [
+        113.0,
+        168.7917,
+        161.0,
+        51.0
+      ],
+      "area": 8211.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 1,
+      "category_id": "Label",
+      "bbox": [
+        408.0,
+        646.7917,
+        178.0,
+        88.0
+      ],
+      "area": 15664.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 1,
+      "category_id": "Label",
+      "bbox": [
+        1046.0,
+        452.7916,
+        102.0,
+        64.0
+      ],
+      "area": 6528.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 1,
+      "category_id": "Label",
+      "bbox": [
+        128.0,
+        462.7917,
+        338.0,
+        52.0
+      ],
+      "area": 17576.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 1,
+      "category_id": "Label",
+      "bbox": [
+        740.0,
+        643.7916,
+        240.0,
+        101.0
+      ],
+      "area": 24240.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 1,
+      "category_id": "RadioButton",
+      "bbox": [
+        135.6125,
+        659.7626,
+        247.2934,
+        59.2405
+      ],
+      "area": 14649.784662699998,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 2,
+      "category_id": "Image",
+      "bbox": [
+        305.4131,
+        176.7247,
+        192.5926,
+        226.7089
+      ],
+      "area": 43662.45649414,
+      "iscrowd": 0
+    },
+    {
+      "id": 22,
+      "image_id": 2,
+      "category_id": "Label",
+      "bbox": [
+        325.9259,
+        518.4968,
+        160.6838,
+        53.5443
+      ],
+      "area": 8603.70159234,
+      "iscrowd": 0
+    },
+    {
+      "id": 23,
+      "image_id": 2,
+      "category_id": "Button",
+      "bbox": [
+        569.8006,
+        565.2057,
+        230.1994,
+        69.4937
+      ],
+      "area": 15997.40804378,
+      "iscrowd": 0
+    },
+    {
+      "id": 24,
+      "image_id": 2,
+      "category_id": "Button",
+      "bbox": [
+        929.9145,
+        54.8259,
+        136.7521,
+        72.9114
+      ],
+      "area": 9970.78706394,
+      "iscrowd": 0
+    },
+    {
+      "id": 25,
+      "image_id": 2,
+      "category_id": "Label",
+      "bbox": [
+        610.8262,
+        513.9399,
+        147.0085,
+        46.7089
+      ],
+      "area": 6866.60532565,
+      "iscrowd": 0
+    },
+    {
+      "id": 26,
+      "image_id": 2,
+      "category_id": "TextBox",
+      "bbox": [
+        676.9231,
+        61.6614,
+        247.2934,
+        62.6582
+      ],
+      "area": 15494.95931588,
+      "iscrowd": 0
+    },
+    {
+      "id": 27,
+      "image_id": 2,
+      "category_id": "Button",
+      "bbox": [
+        307.6923,
+        566.3449,
+        221.0826,
+        70.6329
+      ],
+      "area": 15615.705177540003,
+      "iscrowd": 0
+    },
+    {
+      "id": 28,
+      "image_id": 2,
+      "category_id": "Heading",
+      "bbox": [
+        31.7692,
+        62.8006,
+        664.0598,
+        109.6709
+      ],
+      "area": 72828.03591982,
+      "iscrowd": 0
+    },
+    {
+      "id": 29,
+      "image_id": 2,
+      "category_id": "Heading",
+      "bbox": [
+        594.8718,
+        403.4335,
+        172.0798,
+        38.7342
+      ],
+      "area": 6665.37338916,
+      "iscrowd": 0
+    },
+    {
+      "id": 30,
+      "image_id": 2,
+      "category_id": "Heading",
+      "bbox": [
+        330.4843,
+        403.4335,
+        161.8234,
+        37.5949
+      ],
+      "area": 6083.73454066,
+      "iscrowd": 0
+    },
+    {
+      "id": 31,
+      "image_id": 2,
+      "category_id": "Button",
+      "bbox": [
+        44.4444,
+        568.6234,
+        207.4074,
+        67.2152
+      ],
+      "area": 13940.92987248,
+      "iscrowd": 0
+    },
+    {
+      "id": 32,
+      "image_id": 2,
+      "category_id": "Paragraph",
+      "bbox": [
+        588.0342,
+        441.0285,
+        178.9174,
+        80.8861
+      ],
+      "area": 14471.930708139998,
+      "iscrowd": 0
+    },
+    {
+      "id": 33,
+      "image_id": 2,
+      "category_id": "Image",
+      "bbox": [
+        591.453,
+        175.5854,
+        201.7094,
+        227.8481
+      ],
+      "area": 45959.103542139994,
+      "iscrowd": 0
+    },
+    {
+      "id": 34,
+      "image_id": 2,
+      "category_id": "Label",
+      "bbox": [
+        64.9573,
+        518.4968,
+        150.4273,
+        43.2911
+      ],
+      "area": 6512.16328703,
+      "iscrowd": 0
+    },
+    {
+      "id": 35,
+      "image_id": 2,
+      "category_id": "Heading",
+      "bbox": [
+        64.9573,
+        401.1551,
+        158.4046,
+        39.8734
+      ],
+      "area": 6316.129977639999,
+      "iscrowd": 0
+    },
+    {
+      "id": 36,
+      "image_id": 2,
+      "category_id": "Paragraph",
+      "bbox": [
+        328.2052,
+        444.4462,
+        151.5669,
+        71.7722
+      ],
+      "area": 10878.28986018,
+      "iscrowd": 0
+    },
+    {
+      "id": 37,
+      "image_id": 2,
+      "category_id": "Image",
+      "bbox": [
+        39.886,
+        197.231,
+        192.5926,
+        198.2279
+      ],
+      "area": 38177.226653540005,
+      "iscrowd": 0
+    },
+    {
+      "id": 38,
+      "image_id": 2,
+      "category_id": "Paragraph",
+      "bbox": [
+        67.2365,
+        446.7247,
+        145.8689,
+        64.9367
+      ],
+      "area": 9472.24499863,
+      "iscrowd": 0
+    },
+    {
+      "id": 39,
+      "image_id": 3,
+      "category_id": "Label",
+      "bbox": [
+        121.0,
+        244.7916,
+        320.0,
+        62.0
+      ],
+      "area": 19840.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 40,
+      "image_id": 3,
+      "category_id": "Heading",
+      "bbox": [
+        110.5413,
+        45.712,
+        1076.9231,
+        72.9114
+      ],
+      "area": 78519.97091334,
+      "iscrowd": 0
+    },
+    {
+      "id": 41,
+      "image_id": 3,
+      "category_id": "Label",
+      "bbox": [
+        696.0,
+        526.7916,
+        458.0,
+        84.0
+      ],
+      "area": 38472.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 42,
+      "image_id": 3,
+      "category_id": "RadioButton",
+      "bbox": [
+        134.4729,
+        740.6487,
+        188.0342,
+        76.3291
+      ],
+      "area": 14352.48125522,
+      "iscrowd": 0
+    },
+    {
+      "id": 43,
+      "image_id": 3,
+      "category_id": "Label",
+      "bbox": [
+        968.0,
+        310.7917,
+        182.0,
+        92.0
+      ],
+      "area": 16744.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 44,
+      "image_id": 3,
+      "category_id": "Label",
+      "bbox": [
+        706.0,
+        228.7917,
+        146.0,
+        70.0
+      ],
+      "area": 10220.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 45,
+      "image_id": 3,
+      "category_id": "Label",
+      "bbox": [
+        108.0,
+        316.7917,
+        326.0,
+        51.0
+      ],
+      "area": 16626.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 46,
+      "image_id": 3,
+      "category_id": "Label",
+      "bbox": [
+        737.0,
+        724.7917,
+        244.0,
+        63.0
+      ],
+      "area": 15372.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 47,
+      "image_id": 3,
+      "category_id": "Label",
+      "bbox": [
+        1032.0,
+        716.7917,
+        93.0,
+        83.0
+      ],
+      "area": 7719.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 48,
+      "image_id": 3,
+      "category_id": "Label",
+      "bbox": [
+        137.0,
+        536.7917,
+        169.0,
+        80.0
+      ],
+      "area": 13520.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 49,
+      "image_id": 3,
+      "category_id": "Heading",
+      "bbox": [
+        1037.0,
+        451.7917,
+        108.0,
+        60.0
+      ],
+      "area": 6480.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 50,
+      "image_id": 3,
+      "category_id": "Label",
+      "bbox": [
+        397.0,
+        732.7917,
+        191.0,
+        94.0
+      ],
+      "area": 17954.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 51,
+      "image_id": 3,
+      "category_id": "Heading",
+      "bbox": [
+        118.0,
+        160.7917,
+        147.0,
+        60.0
+      ],
+      "area": 8820.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 52,
+      "image_id": 3,
+      "category_id": "Label",
+      "bbox": [
+        726.0,
+        642.7917,
+        248.0,
+        102.0
+      ],
+      "area": 25296.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 53,
+      "image_id": 3,
+      "category_id": "Heading",
+      "bbox": [
+        128.0,
+        454.7917,
+        342.0,
+        57.0
+      ],
+      "area": 19494.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 54,
+      "image_id": 3,
+      "category_id": "Label",
+      "bbox": [
+        690.0,
+        326.7917,
+        155.0,
+        54.0
+      ],
+      "area": 8370.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 55,
+      "image_id": 3,
+      "category_id": "Label",
+      "bbox": [
+        414.0,
+        642.7917,
+        175.0,
+        93.0
+      ],
+      "area": 16275.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 56,
+      "image_id": 3,
+      "category_id": "RadioButton",
+      "bbox": [
+        143.5897,
+        643.8133,
+        226.7806,
+        83.1646
+      ],
+      "area": 18860.11788676,
+      "iscrowd": 0
+    },
+    {
+      "id": 57,
+      "image_id": 3,
+      "category_id": "Label",
+      "bbox": [
+        1026.0,
+        638.7917,
+        128.0,
+        62.0
+      ],
+      "area": 7936.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 58,
+      "image_id": 3,
+      "category_id": "Label",
+      "bbox": [
+        977.0,
+        226.7917,
+        167.0,
+        73.0
+      ],
+      "area": 12191.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 59,
+      "image_id": 4,
+      "category_id": "Label",
+      "bbox": [
+        722.0,
+        550.7917,
+        420.0,
+        56.0
+      ],
+      "area": 23520.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 60,
+      "image_id": 4,
+      "category_id": "Label",
+      "bbox": [
+        698.0,
+        238.7917,
+        156.0,
+        66.0
+      ],
+      "area": 10296.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 61,
+      "image_id": 4,
+      "category_id": "Label",
+      "bbox": [
+        1014.0,
+        719.7917,
+        112.0,
+        67.0
+      ],
+      "area": 7504.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 62,
+      "image_id": 4,
+      "category_id": "Label",
+      "bbox": [
+        117.0,
+        243.7917,
+        296.0,
+        60.0
+      ],
+      "area": 17760.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 63,
+      "image_id": 4,
+      "category_id": "RadioButton",
+      "bbox": [
+        142.4501,
+        655.2057,
+        233.6182,
+        76.3291
+      ],
+      "area": 17831.86694962,
+      "iscrowd": 0
+    },
+    {
+      "id": 64,
+      "image_id": 4,
+      "category_id": "Label",
+      "bbox": [
+        978.0,
+        320.7917,
+        179.0,
+        71.0
+      ],
+      "area": 12709.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 65,
+      "image_id": 4,
+      "category_id": "Heading",
+      "bbox": [
+        121.0,
+        154.7916,
+        149.0,
+        74.0
+      ],
+      "area": 11026.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 66,
+      "image_id": 4,
+      "category_id": "Label",
+      "bbox": [
+        990.0,
+        220.7917,
+        151.0,
+        90.0
+      ],
+      "area": 13590.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 67,
+      "image_id": 4,
+      "category_id": "Label",
+      "bbox": [
+        113.0,
+        319.7917,
+        295.0,
+        64.0
+      ],
+      "area": 18880.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 68,
+      "image_id": 4,
+      "category_id": "Label",
+      "bbox": [
+        397.0,
+        738.7917,
+        199.0,
+        84.0
+      ],
+      "area": 16716.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 69,
+      "image_id": 4,
+      "category_id": "Label",
+      "bbox": [
+        136.0,
+        536.7917,
+        169.0,
+        67.0
+      ],
+      "area": 11323.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 70,
+      "image_id": 4,
+      "category_id": "Heading",
+      "bbox": [
+        1033.0,
+        454.7917,
+        108.0,
+        56.0
+      ],
+      "area": 6048.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 71,
+      "image_id": 4,
+      "category_id": "Heading",
+      "bbox": [
+        124.0,
+        450.7917,
+        342.0,
+        61.0
+      ],
+      "area": 20862.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 72,
+      "image_id": 4,
+      "category_id": "Label",
+      "bbox": [
+        408.0,
+        647.7917,
+        196.0,
+        87.0
+      ],
+      "area": 17052.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 73,
+      "image_id": 4,
+      "category_id": "Label",
+      "bbox": [
+        722.0,
+        744.7917,
+        256.0,
+        50.0
+      ],
+      "area": 12800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 74,
+      "image_id": 4,
+      "category_id": "Label",
+      "bbox": [
+        1013.0,
+        648.7916,
+        123.0,
+        68.0
+      ],
+      "area": 8364.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 75,
+      "image_id": 4,
+      "category_id": "Heading",
+      "bbox": [
+        101.4245,
+        40.0158,
+        1086.0399,
+        102.5316
+      ],
+      "area": 111353.40861084,
+      "iscrowd": 0
+    },
+    {
+      "id": 76,
+      "image_id": 4,
+      "category_id": "RadioButton",
+      "bbox": [
+        139.0313,
+        745.2057,
+        183.4758,
+        61.519
+      ],
+      "area": 11287.247740199999,
+      "iscrowd": 0
+    },
+    {
+      "id": 77,
+      "image_id": 4,
+      "category_id": "Label",
+      "bbox": [
+        734.0,
+        648.7916,
+        227.0,
+        103.0
+      ],
+      "area": 23381.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 78,
+      "image_id": 4,
+      "category_id": "Label",
+      "bbox": [
+        689.0,
+        315.7916,
+        152.0,
+        65.0
+      ],
+      "area": 9880.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 79,
+      "image_id": 5,
+      "category_id": "Label",
+      "bbox": [
+        584.6154,
+        513.9399,
+        84.3305,
+        51.2658
+      ],
+      "area": 4323.2705469,
+      "iscrowd": 0
+    },
+    {
+      "id": 80,
+      "image_id": 5,
+      "category_id": "ComboBox",
+      "bbox": [
+        92.3077,
+        564.0665,
+        188.0342,
+        79.7468
+      ],
+      "area": 14995.125740559999,
+      "iscrowd": 0
+    },
+    {
+      "id": 81,
+      "image_id": 5,
+      "category_id": "Heading",
+      "bbox": [
+        83.1909,
+        16.0918,
+        1060.9687,
+        138.9873
+      ],
+      "area": 147461.17499750998,
+      "iscrowd": 0
+    },
+    {
+      "id": 82,
+      "image_id": 5,
+      "category_id": "Button",
+      "bbox": [
+        479.7721,
+        676.8513,
+        373.7892,
+        134.4304
+      ],
+      "area": 50248.63167168,
+      "iscrowd": 0
+    },
+    {
+      "id": 83,
+      "image_id": 5,
+      "category_id": "TextBox",
+      "bbox": [
+        84.3305,
+        253.0538,
+        773.7892,
+        84.3038
+      ],
+      "area": 65233.36995896,
+      "iscrowd": 0
+    },
+    {
+      "id": 84,
+      "image_id": 5,
+      "category_id": "TextBox",
+      "bbox": [
+        84.3305,
+        412.5475,
+        576.6382,
+        85.443
+      ],
+      "area": 49269.697722599994,
+      "iscrowd": 0
+    },
+    {
+      "id": 85,
+      "image_id": 5,
+      "category_id": "Button",
+      "bbox": [
+        80.9117,
+        688.2437,
+        360.114,
+        116.2025
+      ],
+      "area": 41846.147085,
+      "iscrowd": 0
+    },
+    {
+      "id": 86,
+      "image_id": 5,
+      "category_id": "Label",
+      "bbox": [
+        85.4701,
+        176.7247,
+        384.0456,
+        66.0759
+      ],
+      "area": 25376.15866104,
+      "iscrowd": 0
+    },
+    {
+      "id": 87,
+      "image_id": 5,
+      "category_id": "TextBox",
+      "bbox": [
+        583.4758,
+        570.9019,
+        180.057,
+        67.2152
+      ],
+      "area": 12102.567266399998,
+      "iscrowd": 0
+    },
+    {
+      "id": 88,
+      "image_id": 5,
+      "category_id": "Label",
+      "bbox": [
+        80.9117,
+        504.826,
+        257.5499,
+        59.2405
+      ],
+      "area": 15257.384850949999,
+      "iscrowd": 0
+    },
+    {
+      "id": 89,
+      "image_id": 5,
+      "category_id": "Label",
+      "bbox": [
+        96.8661,
+        337.3576,
+        290.5983,
+        61.519
+      ],
+      "area": 17877.3168177,
+      "iscrowd": 0
+    },
+    {
+      "id": 90,
+      "image_id": 5,
+      "category_id": "ComboBox",
+      "bbox": [
+        309.9715,
+        568.6234,
+        214.245,
+        67.2152
+      ],
+      "area": 14400.520524,
+      "iscrowd": 0
+    },
+    {
+      "id": 91,
+      "image_id": 6,
+      "category_id": "Label",
+      "bbox": [
+        111.6809,
+        491.1551,
+        162.963,
+        56.962
+      ],
+      "area": 9282.698406,
+      "iscrowd": 0
+    },
+    {
+      "id": 92,
+      "image_id": 6,
+      "category_id": "Label",
+      "bbox": [
+        615.3847,
+        640.3956,
+        183.4758,
+        50.1266
+      ],
+      "area": 9197.01803628,
+      "iscrowd": 0
+    },
+    {
+      "id": 93,
+      "image_id": 6,
+      "category_id": "Label",
+      "bbox": [
+        627.9202,
+        134.5728,
+        213.1054,
+        78.6076
+      ],
+      "area": 16751.70404104,
+      "iscrowd": 0
+    },
+    {
+      "id": 94,
+      "image_id": 6,
+      "category_id": "Heading",
+      "bbox": [
+        95.7265,
+        9.2563,
+        1094.0171,
+        115.0633
+      ],
+      "area": 125881.21778243,
+      "iscrowd": 0
+    },
+    {
+      "id": 95,
+      "image_id": 6,
+      "category_id": "ComboBox",
+      "bbox": [
+        134.4729,
+        540.1424,
+        414.8148,
+        60.3797
+      ],
+      "area": 25046.39317956,
+      "iscrowd": 0
+    },
+    {
+      "id": 96,
+      "image_id": 6,
+      "category_id": "ComboBox",
+      "bbox": [
+        127.6353,
+        695.0791,
+        441.0256,
+        59.2405
+      ],
+      "area": 26126.577056799997,
+      "iscrowd": 0
+    },
+    {
+      "id": 97,
+      "image_id": 6,
+      "category_id": "Label",
+      "bbox": [
+        615.3847,
+        480.9019,
+        108.2621,
+        53.5443
+      ],
+      "area": 5796.81836103,
+      "iscrowd": 0
+    },
+    {
+      "id": 98,
+      "image_id": 6,
+      "category_id": "Button",
+      "bbox": [
+        626.7806,
+        788.4968,
+        492.3077,
+        104.8101
+      ],
+      "area": 51598.819267770006,
+      "iscrowd": 0
+    },
+    {
+      "id": 99,
+      "image_id": 6,
+      "category_id": "Label",
+      "bbox": [
+        603.9886,
+        319.1297,
+        166.3818,
+        48.9873
+      ],
+      "area": 8150.59515114,
+      "iscrowd": 0
+    },
+    {
+      "id": 100,
+      "image_id": 6,
+      "category_id": "ComboBox",
+      "bbox": [
+        611.9658,
+        544.6993,
+        527.6353,
+        56.962
+      ],
+      "area": 30055.161958600005,
+      "iscrowd": 0
+    },
+    {
+      "id": 101,
+      "image_id": 6,
+      "category_id": "TextBox",
+      "bbox": [
+        606.2678,
+        673.4335,
+        251.8518,
+        77.4684
+      ],
+      "area": 19510.55598312,
+      "iscrowd": 0
+    },
+    {
+      "id": 102,
+      "image_id": 6,
+      "category_id": "Label",
+      "bbox": [
+        121.9373,
+        144.8259,
+        249.5726,
+        59.2405
+      ],
+      "area": 14784.805610299998,
+      "iscrowd": 0
+    },
+    {
+      "id": 103,
+      "image_id": 6,
+      "category_id": "Label",
+      "bbox": [
+        121.9373,
+        320.269,
+        153.8462,
+        48.9873
+      ],
+      "area": 7536.50995326,
+      "iscrowd": 0
+    },
+    {
+      "id": 104,
+      "image_id": 6,
+      "category_id": "TextBox",
+      "bbox": [
+        120.7977,
+        372.6741,
+        434.188,
+        85.443
+      ],
+      "area": 37098.325284,
+      "iscrowd": 0
+    },
+    {
+      "id": 105,
+      "image_id": 6,
+      "category_id": "TextBox",
+      "bbox": [
+        116.2393,
+        208.6234,
+        453.5613,
+        74.0506
+      ],
+      "area": 33586.48640178,
+      "iscrowd": 0
+    },
+    {
+      "id": 106,
+      "image_id": 6,
+      "category_id": "Label",
+      "bbox": [
+        129.9145,
+        649.5095,
+        84.3305,
+        45.5696
+      ],
+      "area": 3842.9071528,
+      "iscrowd": 0
+    },
+    {
+      "id": 107,
+      "image_id": 6,
+      "category_id": "TextBox",
+      "bbox": [
+        611.9658,
+        365.8386,
+        554.9857,
+        102.5316
+      ],
+      "area": 56903.57179811999,
+      "iscrowd": 0
+    },
+    {
+      "id": 108,
+      "image_id": 6,
+      "category_id": "TextBox",
+      "bbox": [
+        619.943,
+        202.9272,
+        532.1937,
+        83.1646
+      ],
+      "area": 44259.67618302,
+      "iscrowd": 0
+    },
+    {
+      "id": 109,
+      "image_id": 6,
+      "category_id": "Button",
+      "bbox": [
+        121.9373,
+        806.7247,
+        490.0285,
+        78.6076
+      ],
+      "area": 38519.9643166,
+      "iscrowd": 0
+    },
+    {
+      "id": 110,
+      "image_id": 7,
+      "category_id": "Label",
+      "bbox": [
+        85.4701,
+        175.5854,
+        381.7664,
+        63.7975
+      ],
+      "area": 24355.741904,
+      "iscrowd": 0
+    },
+    {
+      "id": 111,
+      "image_id": 7,
+      "category_id": "Button",
+      "bbox": [
+        70.6553,
+        692.8007,
+        369.2308,
+        112.7848
+      ],
+      "area": 41643.62193184,
+      "iscrowd": 0
+    },
+    {
+      "id": 112,
+      "image_id": 7,
+      "category_id": "Label",
+      "bbox": [
+        92.3077,
+        343.0538,
+        275.7835,
+        53.5443
+      ],
+      "area": 14766.63445905,
+      "iscrowd": 0
+    },
+    {
+      "id": 113,
+      "image_id": 7,
+      "category_id": "Label",
+      "bbox": [
+        92.3077,
+        504.826,
+        248.433,
+        67.2152
+      ],
+      "area": 16698.473781599998,
+      "iscrowd": 0
+    },
+    {
+      "id": 114,
+      "image_id": 7,
+      "category_id": "TextBox",
+      "bbox": [
+        83.1909,
+        248.4968,
+        777.208,
+        88.8608
+      ],
+      "area": 69063.3246464,
+      "iscrowd": 0
+    },
+    {
+      "id": 115,
+      "image_id": 7,
+      "category_id": "Label",
+      "bbox": [
+        575.4986,
+        515.0791,
+        93.4473,
+        51.2658
+      ],
+      "area": 4790.65059234,
+      "iscrowd": 0
+    },
+    {
+      "id": 116,
+      "image_id": 7,
+      "category_id": "TextBox",
+      "bbox": [
+        83.1909,
+        417.1044,
+        568.661,
+        75.1899
+      ],
+      "area": 42757.56372389999,
+      "iscrowd": 0
+    },
+    {
+      "id": 117,
+      "image_id": 7,
+      "category_id": "ComboBox",
+      "bbox": [
+        305.4131,
+        564.0665,
+        209.6866,
+        76.3291
+      ],
+      "area": 16005.189460059999,
+      "iscrowd": 0
+    },
+    {
+      "id": 118,
+      "image_id": 7,
+      "category_id": "ComboBox",
+      "bbox": [
+        92.3077,
+        573.1804,
+        193.7322,
+        76.3291
+      ],
+      "area": 14787.40446702,
+      "iscrowd": 0
+    },
+    {
+      "id": 119,
+      "image_id": 7,
+      "category_id": "TextBox",
+      "bbox": [
+        570.9402,
+        562.9272,
+        194.8718,
+        74.0506
+      ],
+      "area": 14430.373713080002,
+      "iscrowd": 0
+    },
+    {
+      "id": 120,
+      "image_id": 7,
+      "category_id": "Button",
+      "bbox": [
+        464.9572,
+        677.9905,
+        387.4644,
+        128.7342
+      ],
+      "area": 49879.91956248,
+      "iscrowd": 0
+    },
+    {
+      "id": 121,
+      "image_id": 7,
+      "category_id": "Heading",
+      "bbox": [
+        59.2593,
+        13.8133,
+        1104.2735,
+        133.2911
+      ],
+      "area": 147189.82951585,
+      "iscrowd": 0
+    },
+    {
+      "id": 122,
+      "image_id": 8,
+      "category_id": "Button",
+      "bbox": [
+        131.0541,
+        802.1677,
+        486.6097,
+        86.5823
+      ],
+      "area": 42131.78702831,
+      "iscrowd": 0
+    },
+    {
+      "id": 123,
+      "image_id": 8,
+      "category_id": "Label",
+      "bbox": [
+        113.9601,
+        316.8513,
+        151.5669,
+        51.2658
+      ],
+      "area": 7770.19838202,
+      "iscrowd": 0
+    },
+    {
+      "id": 124,
+      "image_id": 8,
+      "category_id": "Label",
+      "bbox": [
+        115.0997,
+        490.0158,
+        152.7065,
+        56.962
+      ],
+      "area": 8698.467653000002,
+      "iscrowd": 0
+    },
+    {
+      "id": 125,
+      "image_id": 8,
+      "category_id": "ComboBox",
+      "bbox": [
+        133.3333,
+        691.6614,
+        437.6068,
+        64.9367
+      ],
+      "area": 28416.74148956,
+      "iscrowd": 0
+    },
+    {
+      "id": 126,
+      "image_id": 8,
+      "category_id": "Label",
+      "bbox": [
+        141.3105,
+        646.0918,
+        63.8177,
+        50.1266
+      ],
+      "area": 3198.9643208200005,
+      "iscrowd": 0
+    },
+    {
+      "id": 127,
+      "image_id": 8,
+      "category_id": "Heading",
+      "bbox": [
+        92.3077,
+        5.8386,
+        1067.8063,
+        118.481
+      ],
+      "area": 126514.7582303,
+      "iscrowd": 0
+    },
+    {
+      "id": 128,
+      "image_id": 8,
+      "category_id": "Button",
+      "bbox": [
+        638.1766,
+        793.0538,
+        491.1681,
+        90.0
+      ],
+      "area": 44205.129,
+      "iscrowd": 0
+    },
+    {
+      "id": 129,
+      "image_id": 8,
+      "category_id": "Label",
+      "bbox": [
+        618.8034,
+        144.8259,
+        227.9202,
+        70.6329
+      ],
+      "area": 16098.66469458,
+      "iscrowd": 0
+    },
+    {
+      "id": 130,
+      "image_id": 8,
+      "category_id": "TextBox",
+      "bbox": [
+        610.8262,
+        208.6234,
+        551.567,
+        78.6076
+      ],
+      "area": 43357.3581092,
+      "iscrowd": 0
+    },
+    {
+      "id": 131,
+      "image_id": 8,
+      "category_id": "TextBox",
+      "bbox": [
+        118.5185,
+        204.0665,
+        443.3048,
+        83.1646
+      ],
+      "area": 36867.26637008,
+      "iscrowd": 0
+    },
+    {
+      "id": 132,
+      "image_id": 8,
+      "category_id": "TextBox",
+      "bbox": [
+        609.6866,
+        380.6487,
+        549.2878,
+        77.4684
+      ],
+      "area": 42552.44700552,
+      "iscrowd": 0
+    },
+    {
+      "id": 133,
+      "image_id": 8,
+      "category_id": "ComboBox",
+      "bbox": [
+        133.3333,
+        539.0032,
+        438.7465,
+        69.4937
+      ],
+      "area": 30490.117647050003,
+      "iscrowd": 0
+    },
+    {
+      "id": 134,
+      "image_id": 8,
+      "category_id": "Label",
+      "bbox": [
+        608.547,
+        640.3956,
+        177.7778,
+        50.1266
+      ],
+      "area": 8911.396669480002,
+      "iscrowd": 0
+    },
+    {
+      "id": 135,
+      "image_id": 8,
+      "category_id": "TextBox",
+      "bbox": [
+        120.7977,
+        370.3956,
+        438.7465,
+        85.443
+      ],
+      "area": 37487.8171995,
+      "iscrowd": 0
+    },
+    {
+      "id": 136,
+      "image_id": 8,
+      "category_id": "Label",
+      "bbox": [
+        598.2906,
+        483.1804,
+        116.2393,
+        52.4051
+      ],
+      "area": 6091.532140429999,
+      "iscrowd": 0
+    },
+    {
+      "id": 137,
+      "image_id": 8,
+      "category_id": "ComboBox",
+      "bbox": [
+        609.6866,
+        535.5854,
+        531.0541,
+        62.6582
+      ],
+      "area": 33274.894008619995,
+      "iscrowd": 0
+    },
+    {
+      "id": 138,
+      "image_id": 8,
+      "category_id": "Label",
+      "bbox": [
+        117.3789,
+        139.1297,
+        250.7122,
+        59.2405
+      ],
+      "area": 14852.316084099999,
+      "iscrowd": 0
+    },
+    {
+      "id": 139,
+      "image_id": 8,
+      "category_id": "TextBox",
+      "bbox": [
+        614.245,
+        690.5222,
+        265.5271,
+        64.9367
+      ],
+      "area": 17242.453634570003,
+      "iscrowd": 0
+    },
+    {
+      "id": 140,
+      "image_id": 8,
+      "category_id": "Label",
+      "bbox": [
+        608.547,
+        323.6867,
+        160.6838,
+        43.2911
+      ],
+      "area": 6956.17845418,
+      "iscrowd": 0
+    },
+    {
+      "id": 141,
+      "image_id": 9,
+      "category_id": "ComboBox",
+      "bbox": [
+        136.7521,
+        691.6614,
+        442.1652,
+        69.4937
+      ],
+      "area": 30727.695759240003,
+      "iscrowd": 0
+    },
+    {
+      "id": 142,
+      "image_id": 9,
+      "category_id": "Heading",
+      "bbox": [
+        94.5869,
+        3.5601,
+        1052.9915,
+        115.0633
+      ],
+      "area": 121160.67686195,
+      "iscrowd": 0
+    },
+    {
+      "id": 143,
+      "image_id": 9,
+      "category_id": "Label",
+      "bbox": [
+        125.3561,
+        315.712,
+        145.8689,
+        47.8481
+      ],
+      "area": 6979.54971409,
+      "iscrowd": 0
+    },
+    {
+      "id": 144,
+      "image_id": 9,
+      "category_id": "Label",
+      "bbox": [
+        622.2222,
+        649.5095,
+        160.6838,
+        36.4557
+      ],
+      "area": 5857.84040766,
+      "iscrowd": 0
+    },
+    {
+      "id": 145,
+      "image_id": 9,
+      "category_id": "Button",
+      "bbox": [
+        638.0,
+        794.7916,
+        488.0,
+        90.0
+      ],
+      "area": 43920.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 146,
+      "image_id": 9,
+      "category_id": "TextBox",
+      "bbox": [
+        111.6809,
+        206.3449,
+        455.8405,
+        78.6076
+      ],
+      "area": 35832.5276878,
+      "iscrowd": 0
+    },
+    {
+      "id": 147,
+      "image_id": 9,
+      "category_id": "Label",
+      "bbox": [
+        117.3789,
+        643.8133,
+        104.8433,
+        50.1266
+      ],
+      "area": 5255.43816178,
+      "iscrowd": 0
+    },
+    {
+      "id": 148,
+      "image_id": 9,
+      "category_id": "TextBox",
+      "bbox": [
+        611.9658,
+        688.2437,
+        252.9915,
+        79.7468
+      ],
+      "area": 20175.262552199998,
+      "iscrowd": 0
+    },
+    {
+      "id": 149,
+      "image_id": 9,
+      "category_id": "TextBox",
+      "bbox": [
+        608.547,
+        378.3702,
+        551.567,
+        80.8861
+      ],
+      "area": 44614.1035187,
+      "iscrowd": 0
+    },
+    {
+      "id": 150,
+      "image_id": 9,
+      "category_id": "Label",
+      "bbox": [
+        622.2222,
+        158.4968,
+        224.5014,
+        46.7089
+      ],
+      "area": 10486.213442459999,
+      "iscrowd": 0
+    },
+    {
+      "id": 151,
+      "image_id": 9,
+      "category_id": "Label",
+      "bbox": [
+        115.0997,
+        133.4335,
+        264.3875,
+        71.7722
+      ],
+      "area": 18975.6725275,
+      "iscrowd": 0
+    },
+    {
+      "id": 152,
+      "image_id": 9,
+      "category_id": "TextBox",
+      "bbox": [
+        618.8034,
+        212.0411,
+        543.5897,
+        72.9114
+      ],
+      "area": 39633.88605258,
+      "iscrowd": 0
+    },
+    {
+      "id": 153,
+      "image_id": 9,
+      "category_id": "Label",
+      "bbox": [
+        622.2222,
+        492.2943,
+        94.5869,
+        45.5696
+      ],
+      "area": 4310.28719824,
+      "iscrowd": 0
+    },
+    {
+      "id": 154,
+      "image_id": 9,
+      "category_id": "Label",
+      "bbox": [
+        126.4957,
+        493.4336,
+        141.3105,
+        53.5443
+      ],
+      "area": 7566.371805149999,
+      "iscrowd": 0
+    },
+    {
+      "id": 155,
+      "image_id": 9,
+      "category_id": "TextBox",
+      "bbox": [
+        126.4957,
+        371.5348,
+        422.792,
+        78.6076
+      ],
+      "area": 33234.6644192,
+      "iscrowd": 0
+    },
+    {
+      "id": 156,
+      "image_id": 9,
+      "category_id": "Label",
+      "bbox": [
+        614.245,
+        328.2437,
+        152.7065,
+        46.7089
+      ],
+      "area": 7132.752637850001,
+      "iscrowd": 0
+    },
+    {
+      "id": 157,
+      "image_id": 9,
+      "category_id": "ComboBox",
+      "bbox": [
+        610.8262,
+        536.7247,
+        529.9145,
+        69.4937
+      ],
+      "area": 36825.71928865,
+      "iscrowd": 0
+    },
+    {
+      "id": 158,
+      "image_id": 9,
+      "category_id": "ComboBox",
+      "bbox": [
+        120.7977,
+        542.4209,
+        446.7237,
+        70.6329
+      ],
+      "area": 31553.390429730003,
+      "iscrowd": 0
+    },
+    {
+      "id": 159,
+      "image_id": 9,
+      "category_id": "Button",
+      "bbox": [
+        113.9601,
+        789.6361,
+        494.5869,
+        96.8354
+      ],
+      "area": 47893.52029626,
+      "iscrowd": 0
+    },
+    {
+      "id": 160,
+      "image_id": 10,
+      "category_id": "Label",
+      "bbox": [
+        244.0,
+        179.7917,
+        278.0,
+        51.0
+      ],
+      "area": 14178.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 161,
+      "image_id": 10,
+      "category_id": "Label",
+      "bbox": [
+        245.0,
+        235.7917,
+        200.0,
+        45.0
+      ],
+      "area": 9000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 162,
+      "image_id": 10,
+      "category_id": "Label",
+      "bbox": [
+        692.0,
+        374.7917,
+        29.0,
+        69.0
+      ],
+      "area": 2001.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 163,
+      "image_id": 10,
+      "category_id": "Button",
+      "bbox": [
+        733.0,
+        371.7917,
+        73.0,
+        67.0
+      ],
+      "area": 4891.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 164,
+      "image_id": 10,
+      "category_id": "Label",
+      "bbox": [
+        102.0,
+        724.7917,
+        147.0,
+        74.0
+      ],
+      "area": 10878.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 165,
+      "image_id": 10,
+      "category_id": "Label",
+      "bbox": [
+        622.0,
+        516.7917,
+        150.0,
+        63.0
+      ],
+      "area": 9450.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 166,
+      "image_id": 10,
+      "category_id": "Button",
+      "bbox": [
+        66.0,
+        811.7916,
+        531.0,
+        84.0
+      ],
+      "area": 44604.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 167,
+      "image_id": 10,
+      "category_id": "Link",
+      "bbox": [
+        364.0,
+        628.7917,
+        94.0,
+        64.0
+      ],
+      "area": 6016.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 168,
+      "image_id": 10,
+      "category_id": "Label",
+      "bbox": [
+        104.0,
+        626.7916,
+        224.0,
+        60.0
+      ],
+      "area": 13440.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 169,
+      "image_id": 10,
+      "category_id": "Label",
+      "bbox": [
+        106.0,
+        526.7916,
+        191.0,
+        59.0
+      ],
+      "area": 11269.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 170,
+      "image_id": 10,
+      "category_id": "Label",
+      "bbox": [
+        949.0,
+        112.7917,
+        103.0,
+        59.0
+      ],
+      "area": 6077.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 171,
+      "image_id": 10,
+      "category_id": "Label",
+      "bbox": [
+        925.0,
+        506.7916,
+        192.0,
+        62.0
+      ],
+      "area": 11904.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 172,
+      "image_id": 10,
+      "category_id": "Label",
+      "bbox": [
+        258.0,
+        335.7916,
+        259.0,
+        48.0
+      ],
+      "area": 12432.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 173,
+      "image_id": 10,
+      "category_id": "Button",
+      "bbox": [
+        617.0,
+        183.7917,
+        68.0,
+        75.0
+      ],
+      "area": 5100.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 174,
+      "image_id": 10,
+      "category_id": "Image",
+      "bbox": [
+        110.0,
+        159.7917,
+        124.0,
+        140.0
+      ],
+      "area": 17360.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 175,
+      "image_id": 10,
+      "category_id": "Label",
+      "bbox": [
+        258.0,
+        394.7917,
+        178.0,
+        50.0
+      ],
+      "area": 8900.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 176,
+      "image_id": 10,
+      "category_id": "Label",
+      "bbox": [
+        664.0,
+        104.7917,
+        86.0,
+        59.0
+      ],
+      "area": 5074.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 177,
+      "image_id": 10,
+      "category_id": "Button",
+      "bbox": [
+        745.0,
+        178.7917,
+        65.0,
+        85.0
+      ],
+      "area": 5525.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 178,
+      "image_id": 10,
+      "category_id": "Image",
+      "bbox": [
+        132.0,
+        334.7917,
+        102.0,
+        133.0
+      ],
+      "area": 13566.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 179,
+      "image_id": 10,
+      "category_id": "Heading",
+      "bbox": [
+        100.0,
+        2.7917,
+        929.0,
+        93.0
+      ],
+      "area": 86397.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 180,
+      "image_id": 10,
+      "category_id": "Label",
+      "bbox": [
+        925.0,
+        615.7916,
+        160.0,
+        64.0
+      ],
+      "area": 10240.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 181,
+      "image_id": 10,
+      "category_id": "Label",
+      "bbox": [
+        701.0,
+        182.7917,
+        33.0,
+        78.0
+      ],
+      "area": 2574.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 182,
+      "image_id": 10,
+      "category_id": "Label",
+      "bbox": [
+        938.0,
+        348.7916,
+        158.0,
+        87.0
+      ],
+      "area": 13746.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 183,
+      "image_id": 10,
+      "category_id": "Button",
+      "bbox": [
+        610.0,
+        374.7917,
+        62.0,
+        69.0
+      ],
+      "area": 4278.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 184,
+      "image_id": 10,
+      "category_id": "Label",
+      "bbox": [
+        618.0,
+        626.7916,
+        175.0,
+        62.0
+      ],
+      "area": 10850.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 185,
+      "image_id": 10,
+      "category_id": "Label",
+      "bbox": [
+        944.0,
+        186.7917,
+        160.0,
+        77.0
+      ],
+      "area": 12320.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 186,
+      "image_id": 10,
+      "category_id": "Button",
+      "bbox": [
+        609.0,
+        806.7917,
+        499.0,
+        92.0
+      ],
+      "area": 45908.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 187,
+      "image_id": 10,
+      "category_id": "Label",
+      "bbox": [
+        98.0,
+        99.7917,
+        131.0,
+        40.0
+      ],
+      "area": 5240.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 188,
+      "image_id": 11,
+      "category_id": "Label",
+      "bbox": [
+        246.0,
+        180.7917,
+        279.0,
+        51.0
+      ],
+      "area": 14229.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 189,
+      "image_id": 11,
+      "category_id": "Button",
+      "bbox": [
+        597.0,
+        359.7917,
+        73.0,
+        89.0
+      ],
+      "area": 6497.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 190,
+      "image_id": 11,
+      "category_id": "Label",
+      "bbox": [
+        676.0,
+        362.7916,
+        48.0,
+        76.0
+      ],
+      "area": 3648.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 191,
+      "image_id": 11,
+      "category_id": "Button",
+      "bbox": [
+        735.0,
+        366.7917,
+        66.0,
+        81.0
+      ],
+      "area": 5346.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 192,
+      "image_id": 11,
+      "category_id": "Label",
+      "bbox": [
+        938.0,
+        339.7917,
+        155.0,
+        100.0
+      ],
+      "area": 15500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 193,
+      "image_id": 11,
+      "category_id": "Image",
+      "bbox": [
+        116.0,
+        166.7917,
+        118.0,
+        125.0
+      ],
+      "area": 14750.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 194,
+      "image_id": 11,
+      "category_id": "Button",
+      "bbox": [
+        738.0,
+        191.7917,
+        75.0,
+        76.0
+      ],
+      "area": 5700.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 195,
+      "image_id": 11,
+      "category_id": "Heading",
+      "bbox": [
+        98.0,
+        3.7917,
+        990.0,
+        76.0
+      ],
+      "area": 75240.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 196,
+      "image_id": 11,
+      "category_id": "Label",
+      "bbox": [
+        90.0,
+        90.7917,
+        131.0,
+        74.0
+      ],
+      "area": 9694.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 197,
+      "image_id": 11,
+      "category_id": "Label",
+      "bbox": [
+        245.0,
+        332.7917,
+        277.0,
+        51.0
+      ],
+      "area": 14127.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 198,
+      "image_id": 11,
+      "category_id": "Button",
+      "bbox": [
+        77.0,
+        800.7917,
+        509.0,
+        95.0
+      ],
+      "area": 48355.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 199,
+      "image_id": 11,
+      "category_id": "Link",
+      "bbox": [
+        374.0,
+        635.7917,
+        80.0,
+        55.0
+      ],
+      "area": 4400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 200,
+      "image_id": 11,
+      "category_id": "Image",
+      "bbox": [
+        134.0,
+        328.7916,
+        108.0,
+        141.0
+      ],
+      "area": 15228.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 201,
+      "image_id": 11,
+      "category_id": "Label",
+      "bbox": [
+        104.0,
+        511.7917,
+        186.0,
+        79.0
+      ],
+      "area": 14694.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 202,
+      "image_id": 11,
+      "category_id": "Label",
+      "bbox": [
+        610.0,
+        512.7917,
+        179.0,
+        75.0
+      ],
+      "area": 13425.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 203,
+      "image_id": 11,
+      "category_id": "Label",
+      "bbox": [
+        249.0,
+        227.7916,
+        185.0,
+        65.0
+      ],
+      "area": 12025.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 204,
+      "image_id": 11,
+      "category_id": "Label",
+      "bbox": [
+        250.0,
+        388.7917,
+        172.0,
+        64.0
+      ],
+      "area": 11008.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 205,
+      "image_id": 11,
+      "category_id": "Label",
+      "bbox": [
+        108.0,
+        732.7917,
+        149.0,
+        51.0
+      ],
+      "area": 7599.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 206,
+      "image_id": 11,
+      "category_id": "Label",
+      "bbox": [
+        640.0,
+        626.7916,
+        148.0,
+        62.0
+      ],
+      "area": 9176.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 207,
+      "image_id": 11,
+      "category_id": "Label",
+      "bbox": [
+        938.0,
+        104.7917,
+        116.0,
+        68.0
+      ],
+      "area": 7888.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 208,
+      "image_id": 11,
+      "category_id": "Label",
+      "bbox": [
+        664.0,
+        96.7917,
+        97.0,
+        75.0
+      ],
+      "area": 7275.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 209,
+      "image_id": 11,
+      "category_id": "Label",
+      "bbox": [
+        929.0,
+        611.7917,
+        147.0,
+        64.0
+      ],
+      "area": 9408.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 210,
+      "image_id": 11,
+      "category_id": "Label",
+      "bbox": [
+        694.0,
+        178.7917,
+        36.0,
+        66.0
+      ],
+      "area": 2376.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 211,
+      "image_id": 11,
+      "category_id": "Label",
+      "bbox": [
+        102.0,
+        624.7917,
+        239.0,
+        62.0
+      ],
+      "area": 14818.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 212,
+      "image_id": 11,
+      "category_id": "Button",
+      "bbox": [
+        621.0,
+        182.7917,
+        57.0,
+        85.0
+      ],
+      "area": 4845.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 213,
+      "image_id": 11,
+      "category_id": "Label",
+      "bbox": [
+        946.0,
+        179.7917,
+        155.0,
+        91.0
+      ],
+      "area": 14105.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 214,
+      "image_id": 11,
+      "category_id": "Label",
+      "bbox": [
+        910.0,
+        502.7917,
+        204.0,
+        65.0
+      ],
+      "area": 13260.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 215,
+      "image_id": 11,
+      "category_id": "Button",
+      "bbox": [
+        608.0,
+        807.7917,
+        489.0,
+        92.0
+      ],
+      "area": 44988.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 216,
+      "image_id": 12,
+      "category_id": "Image",
+      "bbox": [
+        222.0,
+        163.7917,
+        135.0,
+        125.0
+      ],
+      "area": 16875.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 217,
+      "image_id": 12,
+      "category_id": "Label",
+      "bbox": [
+        217.0,
+        519.7917,
+        197.0,
+        69.0
+      ],
+      "area": 13593.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 218,
+      "image_id": 12,
+      "category_id": "Heading",
+      "bbox": [
+        360.0,
+        166.7917,
+        305.0,
+        33.0
+      ],
+      "area": 10065.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 219,
+      "image_id": 12,
+      "category_id": "TextBox",
+      "bbox": [
+        225.0,
+        742.7917,
+        465.0,
+        154.0
+      ],
+      "area": 71610.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 220,
+      "image_id": 12,
+      "category_id": "Label",
+      "bbox": [
+        236.0,
+        672.7916,
+        137.0,
+        63.0
+      ],
+      "area": 8631.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 221,
+      "image_id": 12,
+      "category_id": "Image",
+      "bbox": [
+        225.0,
+        412.7916,
+        347.0,
+        75.0
+      ],
+      "area": 26025.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 222,
+      "image_id": 12,
+      "category_id": "Button",
+      "bbox": [
+        732.0,
+        783.7916,
+        294.0,
+        103.0
+      ],
+      "area": 30282.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 223,
+      "image_id": 12,
+      "category_id": "Label",
+      "bbox": [
+        605.0,
+        426.7917,
+        157.0,
+        74.0
+      ],
+      "area": 11618.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 224,
+      "image_id": 12,
+      "category_id": "Image",
+      "bbox": [
+        768.0,
+        160.7917,
+        213.0,
+        60.0
+      ],
+      "area": 12780.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 225,
+      "image_id": 12,
+      "category_id": "TextBox",
+      "bbox": [
+        221.0,
+        595.7916,
+        477.0,
+        68.0
+      ],
+      "area": 32436.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 226,
+      "image_id": 12,
+      "category_id": "Label",
+      "bbox": [
+        364.0,
+        203.7917,
+        129.0,
+        55.0
+      ],
+      "area": 7095.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 227,
+      "image_id": 12,
+      "category_id": "Label",
+      "bbox": [
+        786.0,
+        216.7917,
+        211.0,
+        54.0
+      ],
+      "area": 11394.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 228,
+      "image_id": 12,
+      "category_id": "Label",
+      "bbox": [
+        225.0,
+        343.7917,
+        293.0,
+        60.0
+      ],
+      "area": 17580.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 229,
+      "image_id": 12,
+      "category_id": "Heading",
+      "bbox": [
+        204.0,
+        34.7917,
+        860.0,
+        117.0
+      ],
+      "area": 100620.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 230,
+      "image_id": 13,
+      "category_id": "Heading",
+      "bbox": [
+        209.0,
+        30.7917,
+        840.0,
+        97.0
+      ],
+      "area": 81480.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 231,
+      "image_id": 13,
+      "category_id": "TextBox",
+      "bbox": [
+        225.0,
+        738.7917,
+        468.0,
+        158.0
+      ],
+      "area": 73944.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 232,
+      "image_id": 13,
+      "category_id": "TextBox",
+      "bbox": [
+        230.0,
+        592.7917,
+        455.0,
+        71.0
+      ],
+      "area": 32305.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 233,
+      "image_id": 13,
+      "category_id": "Label",
+      "bbox": [
+        222.0,
+        336.7917,
+        291.0,
+        78.0
+      ],
+      "area": 22698.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 234,
+      "image_id": 13,
+      "category_id": "Heading",
+      "bbox": [
+        357.0,
+        162.7917,
+        291.0,
+        41.0
+      ],
+      "area": 11931.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 235,
+      "image_id": 13,
+      "category_id": "Button",
+      "bbox": [
+        739.0,
+        779.7917,
+        289.0,
+        107.0
+      ],
+      "area": 30923.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 236,
+      "image_id": 13,
+      "category_id": "Label",
+      "bbox": [
+        213.0,
+        520.7917,
+        212.0,
+        66.0
+      ],
+      "area": 13992.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 237,
+      "image_id": 13,
+      "category_id": "Image",
+      "bbox": [
+        216.0,
+        415.7917,
+        346.0,
+        72.0
+      ],
+      "area": 24912.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 238,
+      "image_id": 13,
+      "category_id": "Image",
+      "bbox": [
+        210.0,
+        142.7917,
+        140.0,
+        150.0
+      ],
+      "area": 21000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 239,
+      "image_id": 13,
+      "category_id": "Label",
+      "bbox": [
+        796.0,
+        203.7917,
+        194.0,
+        61.0
+      ],
+      "area": 11834.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 240,
+      "image_id": 13,
+      "category_id": "Label",
+      "bbox": [
+        357.0,
+        208.7917,
+        123.0,
+        44.0
+      ],
+      "area": 5412.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 241,
+      "image_id": 13,
+      "category_id": "Image",
+      "bbox": [
+        776.0,
+        146.7917,
+        202.0,
+        66.0
+      ],
+      "area": 13332.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 242,
+      "image_id": 13,
+      "category_id": "Label",
+      "bbox": [
+        229.0,
+        667.7917,
+        141.0,
+        71.0
+      ],
+      "area": 10011.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 243,
+      "image_id": 13,
+      "category_id": "Label",
+      "bbox": [
+        602.0,
+        402.7916,
+        152.0,
+        105.0
+      ],
+      "area": 15960.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 244,
+      "image_id": 14,
+      "category_id": "Image",
+      "bbox": [
+        500.0,
+        20.7917,
+        250.0,
+        128.0
+      ],
+      "area": 32000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 245,
+      "image_id": 14,
+      "category_id": "Button",
+      "bbox": [
+        320.0,
+        754.7917,
+        596.0,
+        133.0
+      ],
+      "area": 79268.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 246,
+      "image_id": 14,
+      "category_id": "Paragraph",
+      "bbox": [
+        252.0,
+        192.7917,
+        812.0,
+        418.0
+      ],
+      "area": 339416.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 247,
+      "image_id": 14,
+      "category_id": "Label",
+      "bbox": [
+        373.0,
+        195.7917,
+        516.0,
+        83.0
+      ],
+      "area": 42828.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 248,
+      "image_id": 14,
+      "category_id": "Label",
+      "bbox": [
+        367.0,
+        419.7916,
+        644.0,
+        116.0
+      ],
+      "area": 74704.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 249,
+      "image_id": 14,
+      "category_id": "Label",
+      "bbox": [
+        286.0,
+        280.7917,
+        596.0,
+        128.0
+      ],
+      "area": 76288.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 250,
+      "image_id": 14,
+      "category_id": "Label",
+      "bbox": [
+        389.0,
+        534.7917,
+        608.0,
+        86.0
+      ],
+      "area": 52288.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 251,
+      "image_id": 14,
+      "category_id": "TextBox",
+      "bbox": [
+        308.0,
+        635.7917,
+        577.0,
+        105.0
+      ],
+      "area": 60585.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 252,
+      "image_id": 15,
+      "category_id": "Paragraph",
+      "bbox": [
+        253.0,
+        192.7917,
+        785.0,
+        424.0
+      ],
+      "area": 332840.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 253,
+      "image_id": 15,
+      "category_id": "Label",
+      "bbox": [
+        285.0,
+        294.7917,
+        585.0,
+        109.0
+      ],
+      "area": 63765.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 254,
+      "image_id": 15,
+      "category_id": "Label",
+      "bbox": [
+        370.0,
+        419.7916,
+        639.0,
+        109.0
+      ],
+      "area": 69651.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 255,
+      "image_id": 15,
+      "category_id": "Button",
+      "bbox": [
+        312.0,
+        753.7917,
+        609.0,
+        118.0
+      ],
+      "area": 71862.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 256,
+      "image_id": 15,
+      "category_id": "Label",
+      "bbox": [
+        378.0,
+        186.7917,
+        516.0,
+        89.0
+      ],
+      "area": 45924.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 257,
+      "image_id": 15,
+      "category_id": "Label",
+      "bbox": [
+        404.0,
+        528.7917,
+        589.0,
+        79.0
+      ],
+      "area": 46531.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 258,
+      "image_id": 15,
+      "category_id": "Image",
+      "bbox": [
+        490.0,
+        24.7917,
+        250.0,
+        136.0
+      ],
+      "area": 34000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 259,
+      "image_id": 15,
+      "category_id": "TextBox",
+      "bbox": [
+        302.0,
+        632.7916,
+        624.0,
+        128.0
+      ],
+      "area": 79872.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 260,
+      "image_id": 16,
+      "category_id": "Label",
+      "bbox": [
+        180.0,
+        320.7917,
+        257.0,
+        76.0
+      ],
+      "area": 19532.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 261,
+      "image_id": 16,
+      "category_id": "Label",
+      "bbox": [
+        184.0,
+        131.7917,
+        168.0,
+        96.0
+      ],
+      "area": 16128.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 262,
+      "image_id": 16,
+      "category_id": "CheckBox",
+      "bbox": [
+        178.0,
+        527.7917,
+        410.0,
+        79.0
+      ],
+      "area": 32390.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 263,
+      "image_id": 16,
+      "category_id": "TextBox",
+      "bbox": [
+        185.0,
+        204.7917,
+        444.0,
+        114.0
+      ],
+      "area": 50616.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 264,
+      "image_id": 16,
+      "category_id": "TextBox",
+      "bbox": [
+        190.0,
+        400.7917,
+        462.0,
+        88.0
+      ],
+      "area": 40656.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 265,
+      "image_id": 16,
+      "category_id": "Heading",
+      "bbox": [
+        145.0,
+        0.7917,
+        487.0,
+        103.0
+      ],
+      "area": 50161.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 266,
+      "image_id": 16,
+      "category_id": "Button",
+      "bbox": [
+        197.0,
+        704.7917,
+        464.0,
+        121.0
+      ],
+      "area": 56144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 267,
+      "image_id": 16,
+      "category_id": "Label",
+      "bbox": [
+        188.0,
+        601.7917,
+        415.0,
+        104.0
+      ],
+      "area": 43160.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 268,
+      "image_id": 17,
+      "category_id": "TextBox",
+      "bbox": [
+        201.0,
+        397.7917,
+        442.0,
+        94.0
+      ],
+      "area": 41548.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 269,
+      "image_id": 17,
+      "category_id": "TextBox",
+      "bbox": [
+        194.0,
+        216.7917,
+        443.0,
+        96.0
+      ],
+      "area": 42528.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 270,
+      "image_id": 17,
+      "category_id": "CheckBox",
+      "bbox": [
+        193.0,
+        538.7916,
+        391.0,
+        66.0
+      ],
+      "area": 25806.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 271,
+      "image_id": 17,
+      "category_id": "Label",
+      "bbox": [
+        206.0,
+        139.7917,
+        138.0,
+        91.0
+      ],
+      "area": 12558.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 272,
+      "image_id": 17,
+      "category_id": "Button",
+      "bbox": [
+        184.0,
+        702.7916,
+        494.0,
+        120.0
+      ],
+      "area": 59280.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 273,
+      "image_id": 17,
+      "category_id": "Label",
+      "bbox": [
+        189.0,
+        607.7917,
+        405.0,
+        89.0
+      ],
+      "area": 36045.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 274,
+      "image_id": 17,
+      "category_id": "Label",
+      "bbox": [
+        177.0,
+        316.7917,
+        249.0,
+        72.0
+      ],
+      "area": 17928.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 275,
+      "image_id": 17,
+      "category_id": "Heading",
+      "bbox": [
+        153.0,
+        0.7917,
+        476.0,
+        110.0
+      ],
+      "area": 52360.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 276,
+      "image_id": 18,
+      "category_id": "Paragraph",
+      "bbox": [
+        318.0,
+        460.7916,
+        396.0,
+        107.0
+      ],
+      "area": 42372.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 277,
+      "image_id": 18,
+      "category_id": "Paragraph",
+      "bbox": [
+        336.0,
+        159.7917,
+        664.0,
+        109.0
+      ],
+      "area": 72376.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 278,
+      "image_id": 18,
+      "category_id": "Label",
+      "bbox": [
+        469.0,
+        338.7916,
+        247.0,
+        60.0
+      ],
+      "area": 14820.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 279,
+      "image_id": 18,
+      "category_id": "Image",
+      "bbox": [
+        736.0,
+        347.7917,
+        248.0,
+        249.0
+      ],
+      "area": 61752.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 280,
+      "image_id": 18,
+      "category_id": "Label",
+      "bbox": [
+        336.0,
+        624.7917,
+        245.0,
+        82.0
+      ],
+      "area": 20090.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 281,
+      "image_id": 18,
+      "category_id": "Label",
+      "bbox": [
+        504.0,
+        395.7917,
+        216.0,
+        56.0
+      ],
+      "area": 12096.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 282,
+      "image_id": 18,
+      "category_id": "Heading",
+      "bbox": [
+        344.0,
+        628.7917,
+        226.0,
+        72.0
+      ],
+      "area": 16272.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 283,
+      "image_id": 18,
+      "category_id": "Paragraph",
+      "bbox": [
+        342.0,
+        754.7917,
+        384.0,
+        117.0
+      ],
+      "area": 44928.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 284,
+      "image_id": 18,
+      "category_id": "Heading",
+      "bbox": [
+        325.0,
+        40.7917,
+        208.0,
+        67.0
+      ],
+      "area": 13936.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 285,
+      "image_id": 18,
+      "category_id": "Label",
+      "bbox": [
+        318.0,
+        32.7917,
+        220.0,
+        80.0
+      ],
+      "area": 17600.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 286,
+      "image_id": 18,
+      "category_id": "Image",
+      "bbox": [
+        98.0,
+        30.7917,
+        220.0,
+        261.0
+      ],
+      "area": 57420.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 287,
+      "image_id": 18,
+      "category_id": "Label",
+      "bbox": [
+        324.0,
+        107.7917,
+        221.0,
+        52.0
+      ],
+      "area": 11492.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 288,
+      "image_id": 18,
+      "category_id": "Heading",
+      "bbox": [
+        485.0,
+        343.7917,
+        228.0,
+        56.0
+      ],
+      "area": 12768.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 289,
+      "image_id": 18,
+      "category_id": "Label",
+      "bbox": [
+        344.0,
+        698.7917,
+        218.0,
+        49.0
+      ],
+      "area": 10682.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 290,
+      "image_id": 18,
+      "category_id": "Image",
+      "bbox": [
+        108.0,
+        628.7917,
+        234.0,
+        270.0
+      ],
+      "area": 63180.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 291,
+      "image_id": 19,
+      "category_id": "Button",
+      "bbox": [
+        789.0,
+        784.7917,
+        344.0,
+        111.0
+      ],
+      "area": 38184.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 292,
+      "image_id": 19,
+      "category_id": "TextBox",
+      "bbox": [
+        569.0,
+        575.7917,
+        575.0,
+        104.0
+      ],
+      "area": 59800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 293,
+      "image_id": 19,
+      "category_id": "Label",
+      "bbox": [
+        558.0,
+        340.7917,
+        214.0,
+        63.0
+      ],
+      "area": 13482.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 294,
+      "image_id": 19,
+      "category_id": "CheckBox",
+      "bbox": [
+        64.0,
+        707.7917,
+        906.0,
+        112.0
+      ],
+      "area": 101472.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 295,
+      "image_id": 19,
+      "category_id": "Label",
+      "bbox": [
+        48.0,
+        330.7917,
+        146.0,
+        76.0
+      ],
+      "area": 11096.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 296,
+      "image_id": 19,
+      "category_id": "Label",
+      "bbox": [
+        50.0,
+        157.7917,
+        128.0,
+        61.0
+      ],
+      "area": 7808.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 297,
+      "image_id": 19,
+      "category_id": "TextBox",
+      "bbox": [
+        45.0,
+        232.7917,
+        481.0,
+        88.0
+      ],
+      "area": 42328.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 298,
+      "image_id": 19,
+      "category_id": "Label",
+      "bbox": [
+        564.0,
+        510.7917,
+        416.0,
+        69.0
+      ],
+      "area": 28704.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 299,
+      "image_id": 19,
+      "category_id": "TextBox",
+      "bbox": [
+        564.0,
+        406.7917,
+        566.0,
+        90.0
+      ],
+      "area": 50940.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 300,
+      "image_id": 19,
+      "category_id": "Label",
+      "bbox": [
+        569.0,
+        158.7917,
+        268.0,
+        61.0
+      ],
+      "area": 16348.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 301,
+      "image_id": 19,
+      "category_id": "Label",
+      "bbox": [
+        37.0,
+        522.7916,
+        239.0,
+        56.0
+      ],
+      "area": 13384.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 302,
+      "image_id": 19,
+      "category_id": "TextBox",
+      "bbox": [
+        48.0,
+        418.7917,
+        481.0,
+        81.0
+      ],
+      "area": 38961.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 303,
+      "image_id": 19,
+      "category_id": "TextBox",
+      "bbox": [
+        555.0,
+        200.7917,
+        577.0,
+        112.0
+      ],
+      "area": 64624.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 304,
+      "image_id": 19,
+      "category_id": "Heading",
+      "bbox": [
+        48.0,
+        2.7917,
+        493.0,
+        136.0
+      ],
+      "area": 67048.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 305,
+      "image_id": 19,
+      "category_id": "TextBox",
+      "bbox": [
+        61.0,
+        598.7917,
+        483.0,
+        93.0
+      ],
+      "area": 44919.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 306,
+      "image_id": 20,
+      "category_id": "Label",
+      "bbox": [
+        52.0,
+        524.7917,
+        202.0,
+        64.0
+      ],
+      "area": 12928.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 307,
+      "image_id": 20,
+      "category_id": "Button",
+      "bbox": [
+        792.0,
+        791.7917,
+        346.0,
+        107.0
+      ],
+      "area": 37022.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 308,
+      "image_id": 20,
+      "category_id": "Heading",
+      "bbox": [
+        50.0,
+        0.7917,
+        478.0,
+        128.0
+      ],
+      "area": 61184.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 309,
+      "image_id": 20,
+      "category_id": "Label",
+      "bbox": [
+        40.0,
+        146.7917,
+        141.0,
+        73.0
+      ],
+      "area": 10293.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 310,
+      "image_id": 20,
+      "category_id": "Label",
+      "bbox": [
+        553.0,
+        140.7917,
+        285.0,
+        84.0
+      ],
+      "area": 23940.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 311,
+      "image_id": 20,
+      "category_id": "Label",
+      "bbox": [
+        573.0,
+        340.7917,
+        195.0,
+        62.0
+      ],
+      "area": 12090.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 312,
+      "image_id": 20,
+      "category_id": "CheckBox",
+      "bbox": [
+        65.0,
+        703.7916,
+        904.0,
+        115.0
+      ],
+      "area": 103960.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 313,
+      "image_id": 20,
+      "category_id": "Label",
+      "bbox": [
+        587.0,
+        511.7917,
+        378.0,
+        76.0
+      ],
+      "area": 28728.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 314,
+      "image_id": 20,
+      "category_id": "TextBox",
+      "bbox": [
+        40.0,
+        224.7917,
+        488.0,
+        99.0
+      ],
+      "area": 48312.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 315,
+      "image_id": 20,
+      "category_id": "TextBox",
+      "bbox": [
+        45.0,
+        402.7916,
+        481.0,
+        97.0
+      ],
+      "area": 46657.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 316,
+      "image_id": 20,
+      "category_id": "TextBox",
+      "bbox": [
+        568.0,
+        406.7917,
+        557.0,
+        94.0
+      ],
+      "area": 52358.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 317,
+      "image_id": 20,
+      "category_id": "TextBox",
+      "bbox": [
+        54.0,
+        594.7916,
+        483.0,
+        80.0
+      ],
+      "area": 38640.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 318,
+      "image_id": 20,
+      "category_id": "Label",
+      "bbox": [
+        50.0,
+        328.7916,
+        159.0,
+        71.0
+      ],
+      "area": 11289.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 319,
+      "image_id": 20,
+      "category_id": "TextBox",
+      "bbox": [
+        560.0,
+        203.7917,
+        580.0,
+        129.0
+      ],
+      "area": 74820.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 320,
+      "image_id": 20,
+      "category_id": "TextBox",
+      "bbox": [
+        584.0,
+        576.7917,
+        554.0,
+        111.0
+      ],
+      "area": 61494.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 321,
+      "image_id": 21,
+      "category_id": "Heading",
+      "bbox": [
+        329.0,
+        43.7917,
+        225.0,
+        69.0
+      ],
+      "area": 15525.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 322,
+      "image_id": 21,
+      "category_id": "Label",
+      "bbox": [
+        354.0,
+        690.7917,
+        212.0,
+        57.0
+      ],
+      "area": 12084.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 323,
+      "image_id": 21,
+      "category_id": "Label",
+      "bbox": [
+        329.0,
+        44.7917,
+        209.0,
+        62.0
+      ],
+      "area": 12958.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 324,
+      "image_id": 21,
+      "category_id": "Label",
+      "bbox": [
+        333.0,
+        106.7917,
+        228.0,
+        53.0
+      ],
+      "area": 12084.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 325,
+      "image_id": 21,
+      "category_id": "Image",
+      "bbox": [
+        741.0,
+        339.7917,
+        241.0,
+        249.0
+      ],
+      "area": 60009.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 326,
+      "image_id": 21,
+      "category_id": "Image",
+      "bbox": [
+        90.0,
+        628.7917,
+        248.0,
+        267.0
+      ],
+      "area": 66216.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 327,
+      "image_id": 21,
+      "category_id": "Image",
+      "bbox": [
+        108.0,
+        23.7917,
+        214.0,
+        273.0
+      ],
+      "area": 58422.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 328,
+      "image_id": 21,
+      "category_id": "Label",
+      "bbox": [
+        341.0,
+        630.7917,
+        262.0,
+        71.0
+      ],
+      "area": 18602.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 329,
+      "image_id": 21,
+      "category_id": "Heading",
+      "bbox": [
+        482.0,
+        316.7917,
+        232.0,
+        83.0
+      ],
+      "area": 19256.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 330,
+      "image_id": 21,
+      "category_id": "Paragraph",
+      "bbox": [
+        346.0,
+        155.7917,
+        644.0,
+        115.0
+      ],
+      "area": 74060.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 331,
+      "image_id": 21,
+      "category_id": "Heading",
+      "bbox": [
+        341.0,
+        642.7917,
+        255.0,
+        54.0
+      ],
+      "area": 13770.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 332,
+      "image_id": 21,
+      "category_id": "Paragraph",
+      "bbox": [
+        340.0,
+        751.7916,
+        384.0,
+        124.0
+      ],
+      "area": 47616.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 333,
+      "image_id": 21,
+      "category_id": "Paragraph",
+      "bbox": [
+        297.0,
+        450.7917,
+        421.0,
+        125.0
+      ],
+      "area": 52625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 334,
+      "image_id": 21,
+      "category_id": "Label",
+      "bbox": [
+        509.0,
+        406.7917,
+        201.0,
+        41.0
+      ],
+      "area": 8241.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 335,
+      "image_id": 21,
+      "category_id": "Label",
+      "bbox": [
+        493.0,
+        336.7917,
+        217.0,
+        59.0
+      ],
+      "area": 12803.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 336,
+      "image_id": 22,
+      "category_id": "Paragraph",
+      "bbox": [
+        145.0,
+        742.7917,
+        215.0,
+        114.0
+      ],
+      "area": 24510.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 337,
+      "image_id": 22,
+      "category_id": "Heading",
+      "bbox": [
+        353.0,
+        27.7917,
+        501.0,
+        141.0
+      ],
+      "area": 70641.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 338,
+      "image_id": 22,
+      "category_id": "Paragraph",
+      "bbox": [
+        442.0,
+        745.7917,
+        227.0,
+        115.0
+      ],
+      "area": 26105.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 339,
+      "image_id": 22,
+      "category_id": "Image",
+      "bbox": [
+        141.0,
+        458.7916,
+        193.0,
+        181.0
+      ],
+      "area": 34933.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 340,
+      "image_id": 22,
+      "category_id": "Paragraph",
+      "bbox": [
+        301.0,
+        198.7917,
+        823.0,
+        276.0
+      ],
+      "area": 227148.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 341,
+      "image_id": 22,
+      "category_id": "Heading",
+      "bbox": [
+        157.0,
+        630.7917,
+        173.0,
+        61.0
+      ],
+      "area": 10553.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 342,
+      "image_id": 22,
+      "category_id": "Image",
+      "bbox": [
+        432.0,
+        476.7917,
+        165.0,
+        151.0
+      ],
+      "area": 24915.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 343,
+      "image_id": 22,
+      "category_id": "Heading",
+      "bbox": [
+        744.0,
+        628.7917,
+        236.0,
+        58.0
+      ],
+      "area": 13688.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 344,
+      "image_id": 22,
+      "category_id": "Image",
+      "bbox": [
+        733.0,
+        467.7917,
+        173.0,
+        160.0
+      ],
+      "area": 27680.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 345,
+      "image_id": 22,
+      "category_id": "Label",
+      "bbox": [
+        161.0,
+        684.7917,
+        197.0,
+        47.0
+      ],
+      "area": 9259.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 346,
+      "image_id": 22,
+      "category_id": "Label",
+      "bbox": [
+        758.0,
+        679.7917,
+        254.0,
+        68.0
+      ],
+      "area": 17272.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 347,
+      "image_id": 22,
+      "category_id": "Label",
+      "bbox": [
+        453.0,
+        675.7917,
+        219.0,
+        65.0
+      ],
+      "area": 14235.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 348,
+      "image_id": 22,
+      "category_id": "Paragraph",
+      "bbox": [
+        734.0,
+        736.7917,
+        251.0,
+        126.0
+      ],
+      "area": 31626.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 349,
+      "image_id": 22,
+      "category_id": "Heading",
+      "bbox": [
+        462.0,
+        638.7917,
+        184.0,
+        37.0
+      ],
+      "area": 6808.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 350,
+      "image_id": 23,
+      "category_id": "Image",
+      "bbox": [
+        734.0,
+        475.7917,
+        162.0,
+        149.0
+      ],
+      "area": 24138.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 351,
+      "image_id": 23,
+      "category_id": "Image",
+      "bbox": [
+        422.0,
+        478.7916,
+        179.0,
+        146.0
+      ],
+      "area": 26134.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 352,
+      "image_id": 23,
+      "category_id": "Paragraph",
+      "bbox": [
+        756.0,
+        738.7917,
+        229.0,
+        125.0
+      ],
+      "area": 28625.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 353,
+      "image_id": 23,
+      "category_id": "Label",
+      "bbox": [
+        462.0,
+        687.7917,
+        204.0,
+        43.0
+      ],
+      "area": 8772.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 354,
+      "image_id": 23,
+      "category_id": "Label",
+      "bbox": [
+        757.0,
+        680.7916,
+        239.0,
+        60.0
+      ],
+      "area": 14340.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 355,
+      "image_id": 23,
+      "category_id": "Label",
+      "bbox": [
+        148.0,
+        688.7917,
+        214.0,
+        52.0
+      ],
+      "area": 11128.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 356,
+      "image_id": 23,
+      "category_id": "Heading",
+      "bbox": [
+        397.0,
+        31.7917,
+        417.0,
+        144.0
+      ],
+      "area": 60048.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 357,
+      "image_id": 23,
+      "category_id": "Heading",
+      "bbox": [
+        160.0,
+        638.7917,
+        189.0,
+        48.0
+      ],
+      "area": 9072.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 358,
+      "image_id": 23,
+      "category_id": "Image",
+      "bbox": [
+        132.0,
+        455.7916,
+        206.0,
+        173.0
+      ],
+      "area": 35638.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 359,
+      "image_id": 23,
+      "category_id": "Heading",
+      "bbox": [
+        453.0,
+        628.7917,
+        193.0,
+        50.0
+      ],
+      "area": 9650.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 360,
+      "image_id": 23,
+      "category_id": "Paragraph",
+      "bbox": [
+        134.0,
+        734.7916,
+        236.0,
+        122.0
+      ],
+      "area": 28792.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 361,
+      "image_id": 23,
+      "category_id": "Paragraph",
+      "bbox": [
+        301.0,
+        204.7917,
+        773.0,
+        275.0
+      ],
+      "area": 212575.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 362,
+      "image_id": 23,
+      "category_id": "Heading",
+      "bbox": [
+        753.0,
+        639.7916,
+        231.0,
+        41.0
+      ],
+      "area": 9471.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 363,
+      "image_id": 23,
+      "category_id": "Paragraph",
+      "bbox": [
+        433.0,
+        736.7917,
+        233.0,
+        123.0
+      ],
+      "area": 28659.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": "Button",
+      "name": "Button",
+      "supercategory": "none"
+    },
+    {
+      "id": "CheckBox",
+      "name": "CheckBox",
+      "supercategory": "none"
+    },
+    {
+      "id": "ComboBox",
+      "name": "ComboBox",
+      "supercategory": "none"
+    },
+    {
+      "id": "Heading",
+      "name": "Heading",
+      "supercategory": "none"
+    },
+    {
+      "id": "Image",
+      "name": "Image",
+      "supercategory": "none"
+    },
+    {
+      "id": "Label",
+      "name": "Label",
+      "supercategory": "none"
+    },
+    {
+      "id": "Link",
+      "name": "Link",
+      "supercategory": "none"
+    },
+    {
+      "id": "Paragraph",
+      "name": "Paragraph",
+      "supercategory": "none"
+    },
+    {
+      "id": "RadioButton",
+      "name": "RadioButton",
+      "supercategory": "none"
+    },
+    {
+      "id": "TextBox",
+      "name": "TextBox",
+      "supercategory": "none"
+    }
+  ]
+}

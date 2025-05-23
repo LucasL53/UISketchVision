@@ -1,0 +1,2668 @@
+[
+  {
+    "imagefilename": "3da7a00f-f912-41df-b9bd-0d469bad53a4.png",
+    "annotations": [
+      {
+        "label": "CheckBox",
+        "coordinates": {
+          "x": 192.5926,
+          "y": 541.2816,
+          "width": 401.1396,
+          "height": 74.0506
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 124.2165,
+          "y": 4.6994,
+          "width": 526.4957,
+          "height": 108.2279
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 188.0342,
+          "y": 145.9652,
+          "width": 172.0798,
+          "height": 91.1392
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 181.1966,
+          "y": 695.0791,
+          "width": 502.5641,
+          "height": 143.5443
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 196.0114,
+          "y": 401.1551,
+          "width": 456.9801,
+          "height": 117.3418
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 186.8946,
+          "y": 605.0791,
+          "width": 437.6068,
+          "height": 107.0886
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 176.6382,
+          "y": 323.6867,
+          "width": 249.5726,
+          "height": 83.1646
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 169.8006,
+          "y": 212.0411,
+          "width": 495.7265,
+          "height": 116.2025
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "6475faaf-d427-4a61-a28d-aa781d5bdc91.png",
+    "annotations": [
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 43.3048,
+          "y": 333.9399,
+          "width": 167.5214,
+          "height": 83.1646
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 558.4046,
+          "y": 206.3449,
+          "width": 577.7778,
+          "height": 127.5949
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 28.49,
+          "y": 225.712,
+          "width": 520.7977,
+          "height": 101.3924
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 36.4672,
+          "y": 155.0791,
+          "width": 145.8689,
+          "height": 67.2152
+        }
+      },
+      {
+        "label": "CheckBox",
+        "coordinates": {
+          "x": 55.8405,
+          "y": 706.4716,
+          "width": 945.8689,
+          "height": 95.6962
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 38.7464,
+          "y": 510.5222,
+          "width": 231.339,
+          "height": 93.4177
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 577.7778,
+          "y": 505.9652,
+          "width": 401.1396,
+          "height": 71.7722
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 556.1254,
+          "y": 337.3576,
+          "width": 219.943,
+          "height": 61.519
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 779.4872,
+          "y": 771.4083,
+          "width": 366.9516,
+          "height": 123.038
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 38.7464,
+          "y": 585.7121,
+          "width": 505.9829,
+          "height": 103.6709
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 566.3818,
+          "y": 141.4082,
+          "width": 265.5271,
+          "height": 76.3291
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 554.9857,
+          "y": 574.3196,
+          "width": 592.5926,
+          "height": 101.3924
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 27.3504,
+          "y": 4.6994,
+          "width": 543.5897,
+          "height": 133.2911
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 560.6838,
+          "y": 395.4589,
+          "width": 570.9402,
+          "height": 102.5316
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 39.886,
+          "y": 405.712,
+          "width": 491.1681,
+          "height": 101.3924
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "76f51eb5-afd2-4e83-82c0-a105b10dc6f1.png",
+    "annotations": [
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 565.2421,
+          "y": 486.5981,
+          "width": 413.6752,
+          "height": 91.1392
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 569.8006,
+          "y": 398.8766,
+          "width": 630.1994,
+          "height": 99.1139
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 5.698,
+          "y": 12.6741,
+          "width": 521.9373,
+          "height": 142.4051
+        }
+      },
+      {
+        "label": "CheckBox",
+        "coordinates": {
+          "x": 37.6068,
+          "y": 732.674,
+          "width": 766.9516,
+          "height": 110.5063
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 35.3276,
+          "y": 356.7247,
+          "width": 164.1026,
+          "height": 80.8861
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 35.3276,
+          "y": 428.4968,
+          "width": 515.0997,
+          "height": 96.8354
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 806.8376,
+          "y": 769.1297,
+          "width": 373.7892,
+          "height": 110.5063
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 29.6296,
+          "y": 175.5854,
+          "width": 128.7749,
+          "height": 76.3291
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 540.1709,
+          "y": 147.1044,
+          "width": 311.1111,
+          "height": 64.9367
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 54.7009,
+          "y": 608.4968,
+          "width": 502.5641,
+          "height": 104.8101
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 58.1197,
+          "y": 537.8639,
+          "width": 214.245,
+          "height": 80.8861
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 551.567,
+          "y": 200.6487,
+          "width": 575.4986,
+          "height": 112.7848
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 581.1966,
+          "y": 569.7627,
+          "width": 569.8006,
+          "height": 97.9747
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 554.9857,
+          "y": 336.2184,
+          "width": 257.5499,
+          "height": 68.3544
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 29.6296,
+          "y": 253.0538,
+          "width": 491.1681,
+          "height": 99.1139
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "4ffbe90a-7888-4dd3-9e5c-7565fa1b4847.png",
+    "annotations": [
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 47.8632,
+          "y": 528.75,
+          "width": 202.849,
+          "height": 84.3038
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 564.1026,
+          "y": 333.9399,
+          "width": 190.3134,
+          "height": 71.7722
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 28.49,
+          "y": 229.1297,
+          "width": 516.2393,
+          "height": 107.0886
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 557.265,
+          "y": 396.5981,
+          "width": 564.1026,
+          "height": 91.1392
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 17.094,
+          "y": 347.6107,
+          "width": 197.151,
+          "height": 74.0506
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 551.567,
+          "y": 144.8259,
+          "width": 274.6439,
+          "height": 71.7722
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 573.2194,
+          "y": 502.5475,
+          "width": 410.2564,
+          "height": 74.0506
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 569.8006,
+          "y": 562.9272,
+          "width": 565.2421,
+          "height": 150.3798
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 812.5356,
+          "y": 775.9652,
+          "width": 354.4159,
+          "height": 115.0633
+        }
+      },
+      {
+        "label": "CheckBox",
+        "coordinates": {
+          "x": 63.8177,
+          "y": 713.307,
+          "width": 732.7636,
+          "height": 117.3418
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 47.8632,
+          "y": 594.8259,
+          "width": 490.0285,
+          "height": 105.9494
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 539.0314,
+          "y": 200.6487,
+          "width": 598.2906,
+          "height": 112.7848
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 18.2336,
+          "y": 2.4209,
+          "width": 516.2393,
+          "height": 142.4051
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 34.188,
+          "y": 171.0285,
+          "width": 128.7749,
+          "height": 66.0759
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 23.9316,
+          "y": 409.1298,
+          "width": 509.4017,
+          "height": 112.7848
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "26246a48-79ca-41d2-b578-5bd82ed14d05.png",
+    "annotations": [
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 308.8319,
+          "y": 447.8639,
+          "width": 415.9544,
+          "height": 125.3164
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 71.7949,
+          "y": 602.8006,
+          "width": 245.0143,
+          "height": 283.6709
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 329.3447,
+          "y": 629.0032,
+          "width": 246.1538,
+          "height": 61.519
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 336.1823,
+          "y": 28.6234,
+          "width": 219.943,
+          "height": 76.3291
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 332.7635,
+          "y": 749.7626,
+          "width": 378.3476,
+          "height": 120.7595
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 341.8803,
+          "y": 82.1677,
+          "width": 211.9658,
+          "height": 72.9114
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 516.2393,
+          "y": 401.1551,
+          "width": 202.849,
+          "height": 45.5696
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 345.2992,
+          "y": 141.4082,
+          "width": 640.4558,
+          "height": 133.2911
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 344.1595,
+          "y": 32.0411,
+          "width": 214.245,
+          "height": 76.3291
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 332.7635,
+          "y": 638.1171,
+          "width": 239.3162,
+          "height": 60.3797
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 337.3219,
+          "y": 689.3829,
+          "width": 222.2222,
+          "height": 52.4051
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 501.4245,
+          "y": 336.2184,
+          "width": 208.547,
+          "height": 58.1013
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 498.0057,
+          "y": 347.6107,
+          "width": 213.1054,
+          "height": 52.4051
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 131.0541,
+          "y": 5.8386,
+          "width": 201.7094,
+          "height": 265.443
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 752.1367,
+          "y": 352.1677,
+          "width": 218.8034,
+          "height": 255.1899
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "3e6baa71-dc1e-4ec8-8a3f-a4349e6cbf1a.png",
+    "annotations": [
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 93.4473,
+          "y": 598.2437,
+          "width": 218.8034,
+          "height": 298.481
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 486.6097,
+          "y": 323.6867,
+          "width": 230.1994,
+          "height": 83.1646
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 491.1681,
+          "y": 343.0538,
+          "width": 223.3618,
+          "height": 62.6582
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 341.8803,
+          "y": 679.1297,
+          "width": 224.5014,
+          "height": 74.0506
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 344.1595,
+          "y": 35.4589,
+          "width": 209.6866,
+          "height": 63.7975
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 509.4017,
+          "y": 387.4842,
+          "width": 206.2678,
+          "height": 70.6329
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 345.2992,
+          "y": 25.2057,
+          "width": 196.0114,
+          "height": 78.6076
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 124.2165,
+          "y": 4.6994,
+          "width": 202.849,
+          "height": 270.0
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 324.7863,
+          "y": 745.2057,
+          "width": 388.604,
+          "height": 126.4557
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 345.2992,
+          "y": 94.6994,
+          "width": 209.6866,
+          "height": 69.4937
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 340.7408,
+          "y": 639.2563,
+          "width": 227.9202,
+          "height": 66.0759
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 355.5556,
+          "y": 140.269,
+          "width": 641.5954,
+          "height": 144.6835
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 339.6011,
+          "y": 623.307,
+          "width": 226.7806,
+          "height": 76.3291
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 319.0883,
+          "y": 450.1424,
+          "width": 397.7208,
+          "height": 126.4557
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 746.4388,
+          "y": 345.3323,
+          "width": 232.4786,
+          "height": 276.8354
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "c237d277-27c4-465d-b2d6-e4eca2c069ed.png",
+    "annotations": [
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 104.8433,
+          "y": 614.193,
+          "width": 213.1054,
+          "height": 259.7468
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 486.6097,
+          "y": 332.8006,
+          "width": 229.0598,
+          "height": 62.6582
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 335.0427,
+          "y": 625.5854,
+          "width": 227.9202,
+          "height": 74.0506
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 526.4957,
+          "y": 406.8513,
+          "width": 185.755,
+          "height": 53.5443
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 486.6097,
+          "y": 325.9652,
+          "width": 224.5014,
+          "height": 74.0506
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 346.4387,
+          "y": 92.4209,
+          "width": 200.5698,
+          "height": 62.6582
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 335.0427,
+          "y": 631.2817,
+          "width": 227.9202,
+          "height": 71.7722
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 317.9487,
+          "y": 446.7247,
+          "width": 404.5584,
+          "height": 110.5063
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 331.6239,
+          "y": 744.0665,
+          "width": 373.7892,
+          "height": 118.481
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 349.8575,
+          "y": 153.9399,
+          "width": 645.0143,
+          "height": 135.5696
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 121.9373,
+          "y": 0.0,
+          "width": 213.1054,
+          "height": 265.5854
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 336.1823,
+          "y": 35.4589,
+          "width": 207.4074,
+          "height": 67.2152
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 335.0427,
+          "y": 683.6867,
+          "width": 208.547,
+          "height": 70.6329
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 343.02,
+          "y": 26.3449,
+          "width": 197.151,
+          "height": 71.7722
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 745.2991,
+          "y": 349.8892,
+          "width": 227.9202,
+          "height": 279.1139
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "54f95c56-6e1e-42b9-b0ee-2f9de7134c6e.png",
+    "annotations": [
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 479.7721,
+          "y": 624.4462,
+          "width": 175.4986,
+          "height": 59.2405
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 470.6553,
+          "y": 687.1045,
+          "width": 213.1054,
+          "height": 48.9873
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 377.208,
+          "y": 37.7373,
+          "width": 420.5128,
+          "height": 138.9873
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 173.2194,
+          "y": 662.0411,
+          "width": 185.755,
+          "height": 42.1519
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 147.0085,
+          "y": 477.4842,
+          "width": 202.849,
+          "height": 174.3038
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 284.9003,
+          "y": 196.0918,
+          "width": 804.5584,
+          "height": 280.2532
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 430.7692,
+          "y": 476.3449,
+          "width": 186.8946,
+          "height": 154.9367
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 162.963,
+          "y": 769.1297,
+          "width": 221.0826,
+          "height": 100.2532
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 772.6496,
+          "y": 621.0285,
+          "width": 225.641,
+          "height": 46.7089
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 780.6268,
+          "y": 666.5981,
+          "width": 229.0598,
+          "height": 53.5443
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 723.6467,
+          "y": 461.5348,
+          "width": 198.2906,
+          "height": 157.2152
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 765.8119,
+          "y": 723.5601,
+          "width": 235.8974,
+          "height": 103.6709
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 464.9572,
+          "y": 747.4842,
+          "width": 217.6638,
+          "height": 100.2532
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 169.8006,
+          "y": 711.0285,
+          "width": 209.6866,
+          "height": 46.7089
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "7f288e89-a0fb-4f69-b6e8-458faae5915f.png",
+    "annotations": [
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 422.792,
+          "y": 461.5348,
+          "width": 158.4046,
+          "height": 160.6329
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 729.3447,
+          "y": 499.1297,
+          "width": 169.8006,
+          "height": 152.6582
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 141.3105,
+          "y": 592.5474,
+          "width": 173.2194,
+          "height": 61.519
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 439.886,
+          "y": 675.712,
+          "width": 192.5926,
+          "height": 59.2405
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 406.8376,
+          "y": 730.3955,
+          "width": 214.245,
+          "height": 124.1772
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 735.0427,
+          "y": 706.4716,
+          "width": 225.641,
+          "height": 72.9114
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 435.3276,
+          "y": 17.231,
+          "width": 413.6752,
+          "height": 157.2152
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 450.1424,
+          "y": 621.0285,
+          "width": 170.9402,
+          "height": 58.1013
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 729.3447,
+          "y": 652.9272,
+          "width": 232.4786,
+          "height": 66.0759
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 143.5897,
+          "y": 409.1298,
+          "width": 160.6838,
+          "height": 173.1646
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 117.3789,
+          "y": 692.8007,
+          "width": 199.4302,
+          "height": 127.5949
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 706.5527,
+          "y": 756.5981,
+          "width": 203.9886,
+          "height": 131.0127
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 340.7408,
+          "y": 171.0285,
+          "width": 760.114,
+          "height": 305.3165
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 118.5185,
+          "y": 644.9526,
+          "width": 209.6866,
+          "height": 55.8228
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "1f9e8765-44db-4303-b12a-d6b30c9cc5f9.png",
+    "annotations": [
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 581.1966,
+          "y": 511.6614,
+          "width": 82.0513,
+          "height": 46.7089
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 96.8661,
+          "y": 428.4968,
+          "width": 577.7778,
+          "height": 102.5316
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 104.8433,
+          "y": 541.2816,
+          "width": 235.8974,
+          "height": 55.8228
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 103.7037,
+          "y": 714.4462,
+          "width": 380.6268,
+          "height": 132.1519
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 63.8177,
+          "y": 208.6234,
+          "width": 390.8832,
+          "height": 61.519
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 41.0256,
+          "y": 264.4462,
+          "width": 810.2564,
+          "height": 103.6709
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 501.4245,
+          "y": 675.712,
+          "width": 403.4188,
+          "height": 136.7089
+        }
+      },
+      {
+        "label": "ComboBox",
+        "coordinates": {
+          "x": 107.1225,
+          "y": 609.6361,
+          "width": 189.1738,
+          "height": 68.3544
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 600.5698,
+          "y": 556.0918,
+          "width": 174.359,
+          "height": 83.1646
+        }
+      },
+      {
+        "label": "ComboBox",
+        "coordinates": {
+          "x": 327.0655,
+          "y": 576.5981,
+          "width": 201.7094,
+          "height": 77.4684
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 88.8889,
+          "y": 368.1171,
+          "width": 266.6667,
+          "height": 70.6329
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 34.188,
+          "y": 35.4589,
+          "width": 962.963,
+          "height": 140.1266
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "a2d2b1cd-d4b8-4a1c-90fa-e5549e39b91b.png",
+    "annotations": [
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 904.0,
+          "y": 702.7916,
+          "width": 210.0,
+          "height": 84.0
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "b492b141-a162-4e40-bba2-920a9d1c9555.png",
+    "annotations": [
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 912.0,
+          "y": 708.7917,
+          "width": 197.0,
+          "height": 75.0
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "a2e5bc0f-6e8a-442e-affe-ca4bda44d262.png",
+    "annotations": [
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 912.0,
+          "y": 715.7917,
+          "width": 193.0,
+          "height": 79.0
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "79f7dc11-4a61-4856-ab94-c1f64fdcc6d7.png",
+    "annotations": [
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 113.9039,
+          "y": 779.8858,
+          "width": 102.0305,
+          "height": 130.9645
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 106.2897,
+          "y": 703.7436,
+          "width": 292.3858,
+          "height": 45.6853
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 451.9749,
+          "y": 676.3325,
+          "width": 365.4822,
+          "height": 89.8477
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 77.3556,
+          "y": 79.3782,
+          "width": 389.8477,
+          "height": 77.665
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 218.98,
+          "y": 522.5254,
+          "width": 181.2183,
+          "height": 86.802
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 84.9699,
+          "y": 394.6066,
+          "width": 318.2741,
+          "height": 57.868
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 83.447,
+          "y": 86.9924,
+          "width": 367.0051,
+          "height": 45.6853
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 220.5029,
+          "y": 463.1345,
+          "width": 176.6497,
+          "height": 53.2995
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 477.8633,
+          "y": 473.7944,
+          "width": 108.1218,
+          "height": 146.1929
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 83.447,
+          "y": 222.5254,
+          "width": 327.4112,
+          "height": 121.8274
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 473.2947,
+          "y": 690.038,
+          "width": 304.5685,
+          "height": 67.0051
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 83.447,
+          "y": 161.6117,
+          "width": 232.9949,
+          "height": 57.868
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 589.0307,
+          "y": 821.0025,
+          "width": 187.3096,
+          "height": 100.5076
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 100.1983,
+          "y": 467.703,
+          "width": 111.1675,
+          "height": 146.1929
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 450.4521,
+          "y": 383.9467,
+          "width": 347.2081,
+          "height": 79.1878
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 595.1222,
+          "y": 521.0026,
+          "width": 155.3299,
+          "height": 98.9848
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 220.5029,
+          "y": 819.4798,
+          "width": 170.5584,
+          "height": 85.2792
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 77.3556,
+          "y": 679.3782,
+          "width": 354.8223,
+          "height": 89.8477
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 458.0663,
+          "y": 80.901,
+          "width": 333.5025,
+          "height": 275.6345
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 599.6907,
+          "y": 466.1802,
+          "width": 159.8985,
+          "height": 48.731
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 80.4124,
+          "y": 977.5129,
+          "width": 630.9278,
+          "height": 143.8144
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 220.5029,
+          "y": 770.7487,
+          "width": 181.2183,
+          "height": 48.731
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 467.2034,
+          "y": 767.7031,
+          "width": 123.3503,
+          "height": 144.67
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 77.3556,
+          "y": 377.8553,
+          "width": 357.868,
+          "height": 80.7107
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 599.6907,
+          "y": 770.7487,
+          "width": 165.9898,
+          "height": 47.2081
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 473.2947,
+          "y": 400.698,
+          "width": 295.4315,
+          "height": 53.2995
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "6913aa55-d647-4efc-a1ed-80d790618aa8.png",
+    "annotations": [
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 75.8328,
+          "y": 161.6117,
+          "width": 312.1827,
+          "height": 59.3909
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 107.8125,
+          "y": 773.7944,
+          "width": 112.6904,
+          "height": 141.6244
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 595.1222,
+          "y": 464.6574,
+          "width": 176.6497,
+          "height": 54.8223
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 451.9749,
+          "y": 670.2411,
+          "width": 371.5736,
+          "height": 97.4619
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 598.1679,
+          "y": 769.2259,
+          "width": 165.9898,
+          "height": 45.6853
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 223.5485,
+          "y": 769.2259,
+          "width": 167.5127,
+          "height": 50.2538
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 459.5891,
+          "y": 74.8096,
+          "width": 335.0254,
+          "height": 290.8629
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 218.98,
+          "y": 819.4798,
+          "width": 173.6041,
+          "height": 86.802
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 98.6754,
+          "y": 700.698,
+          "width": 312.1827,
+          "height": 60.9137
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 214.4115,
+          "y": 472.2716,
+          "width": 184.264,
+          "height": 44.1624
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 95.6298,
+          "y": 399.1751,
+          "width": 301.5228,
+          "height": 53.2995
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 584.4623,
+          "y": 813.3883,
+          "width": 190.3553,
+          "height": 97.4619
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 471.7719,
+          "y": 773.7944,
+          "width": 115.736,
+          "height": 137.0558
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 447.4064,
+          "y": 383.9467,
+          "width": 356.3452,
+          "height": 85.2792
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 101.7211,
+          "y": 469.2259,
+          "width": 111.1675,
+          "height": 149.2386
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 468.7262,
+          "y": 405.2665,
+          "width": 266.4975,
+          "height": 47.2081
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 72.7871,
+          "y": 74.8096,
+          "width": 376.1421,
+          "height": 62.4365
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 77.3556,
+          "y": 676.3325,
+          "width": 356.3452,
+          "height": 86.802
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 474.8176,
+          "y": 691.5609,
+          "width": 295.4315,
+          "height": 76.1421
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 66.6958,
+          "y": 383.9467,
+          "width": 353.2995,
+          "height": 77.665
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 206.7973,
+          "y": 516.434,
+          "width": 182.7411,
+          "height": 97.4619
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 471.7719,
+          "y": 473.7944,
+          "width": 126.3959,
+          "height": 144.67
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 63.6501,
+          "y": 65.6726,
+          "width": 402.0304,
+          "height": 92.8934
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 74.31,
+          "y": 216.434,
+          "width": 339.5939,
+          "height": 130.9645
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 590.5536,
+          "y": 516.434,
+          "width": 169.0355,
+          "height": 102.0305
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "0bb2725b-88b4-4734-98f1-3d7d860434e9.png",
+    "annotations": [
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 24.0562,
+          "y": 390.0381,
+          "width": 345.6853,
+          "height": 73.0964
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 423.0409,
+          "y": 543.8452,
+          "width": 418.7817,
+          "height": 95.9391
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 2.7364,
+          "y": 67.1954,
+          "width": 837.5634,
+          "height": 88.3249
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 5.782,
+          "y": 221.0025,
+          "width": 411.1675,
+          "height": 89.8477
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 346.8988,
+          "y": 874.302,
+          "width": 395.9391,
+          "height": 85.2792
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 21.0105,
+          "y": 460.0888,
+          "width": 362.4366,
+          "height": 83.7564
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 426.0866,
+          "y": 455.5203,
+          "width": 406.599,
+          "height": 85.2792
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 413.9039,
+          "y": 396.1294,
+          "width": 415.736,
+          "height": 56.3452
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 363.6501,
+          "y": 688.5152,
+          "width": 348.731,
+          "height": 179.6954
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 5.782,
+          "y": 542.3224,
+          "width": 363.9594,
+          "height": 97.4619
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 10.3506,
+          "y": 157.0431,
+          "width": 389.8477,
+          "height": 54.8223
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 10.3506,
+          "y": 697.6523,
+          "width": 328.934,
+          "height": 266.4975
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "f7178070-ea83-4a9e-b814-e367468705c3.png",
+    "annotations": [
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 174.4589,
+          "y": 242.2747,
+          "width": 689.6289,
+          "height": 91.3706
+        }
+      },
+      {
+        "label": "ComboBox",
+        "coordinates": {
+          "x": 143.6311,
+          "y": 340.4981,
+          "width": 613.1304,
+          "height": 102.7919
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 198.436,
+          "y": 764.2291,
+          "width": 535.49,
+          "height": 107.3604
+        }
+      },
+      {
+        "label": "ComboBox",
+        "coordinates": {
+          "x": 158.4741,
+          "y": 136.0565,
+          "width": 519.5052,
+          "height": 87.9442
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 172.1753,
+          "y": 535.8027,
+          "width": 526.3558,
+          "height": 86.802
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 175.6006,
+          "y": 449.0006,
+          "width": 559.4672,
+          "height": 85.6599
+        }
+      },
+      {
+        "label": "Link",
+        "coordinates": {
+          "x": 190.4436,
+          "y": 640.8788,
+          "width": 449.8573,
+          "height": 102.7919
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 151.6235,
+          "y": 36.691,
+          "width": 730.7327,
+          "height": 83.3756
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "94b81e83-315e-41d6-ad36-17ba9a565070.png",
+    "annotations": [
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 10.6419,
+          "y": 688.2912,
+          "width": 320.777,
+          "height": 281.0127
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 5.782,
+          "y": 58.0584,
+          "width": 817.7665,
+          "height": 95.9391
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 6.0811,
+          "y": 220.443,
+          "width": 407.4324,
+          "height": 95.6962
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 1.5203,
+          "y": 548.5443,
+          "width": 373.9865,
+          "height": 83.5443
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 360.3041,
+          "y": 694.3671,
+          "width": 366.3851,
+          "height": 170.1266
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 442.3986,
+          "y": 458.9241,
+          "width": 331.4189,
+          "height": 80.5063
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 18.2432,
+          "y": 458.9241,
+          "width": 317.7365,
+          "height": 82.0253
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 1.2135,
+          "y": 146.3832,
+          "width": 423.3502,
+          "height": 70.0508
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 425.6757,
+          "y": 547.0253,
+          "width": 381.5879,
+          "height": 85.0633
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 448.4797,
+          "y": 402.7215,
+          "width": 351.1824,
+          "height": 47.0886
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 340.5406,
+          "y": 875.1265,
+          "width": 387.6689,
+          "height": 72.9114
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 21.2838,
+          "y": 399.6835,
+          "width": 332.9392,
+          "height": 66.8354
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "2156be4b-6d9b-461b-98ed-1ca46f07b453.png",
+    "annotations": [
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 420.5128,
+          "y": 557.231,
+          "width": 91.1681,
+          "height": 120.7595
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 680.3419,
+          "y": 549.2563,
+          "width": 117.3789,
+          "height": 42.1519
+        }
+      },
+      {
+        "label": "RadioButton",
+        "coordinates": {
+          "x": 692.8775,
+          "y": 453.5601,
+          "width": 176.6382,
+          "height": 43.2911
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 197.151,
+          "y": 556.0918,
+          "width": 93.4473,
+          "height": 124.1772
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 132.1937,
+          "y": 136.8513,
+          "width": 344.1595,
+          "height": 379.3671
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 300.8547,
+          "y": 553.8133,
+          "width": 94.5869,
+          "height": 123.038
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 687.1795,
+          "y": 134.5728,
+          "width": 324.7863,
+          "height": 60.3797
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 898.0057,
+          "y": 597.1044,
+          "width": 128.7749,
+          "height": 52.4051
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 666.6667,
+          "y": 665.4588,
+          "width": 480.9117,
+          "height": 104.8101
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 675.7835,
+          "y": 594.8259,
+          "width": 134.4729,
+          "height": 56.962
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 93.4473,
+          "y": 554.9525,
+          "width": 87.7493,
+          "height": 120.7595
+        }
+      },
+      {
+        "label": "RadioButton",
+        "coordinates": {
+          "x": 698.5754,
+          "y": 323.6867,
+          "width": 145.8689,
+          "height": 48.9873
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 696.2963,
+          "y": 194.9525,
+          "width": 243.8747,
+          "height": 50.1266
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 895.7265,
+          "y": 542.4209,
+          "width": 197.151,
+          "height": 54.6835
+        }
+      },
+      {
+        "label": "RadioButton",
+        "coordinates": {
+          "x": 701.9943,
+          "y": 387.4842,
+          "width": 144.7293,
+          "height": 45.5696
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 131.0541,
+          "y": 11.5348,
+          "width": 347.5783,
+          "height": 59.2405
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 694.7477,
+          "y": 258.2035,
+          "width": 137.4215,
+          "height": 61.495
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "26a69d17-f61d-4edf-a993-fa5610d5bd0b.png",
+    "annotations": [
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 158.4046,
+          "y": 34.3196,
+          "width": 649.5727,
+          "height": 83.1646
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 192.5926,
+          "y": 456.9779,
+          "width": 511.6809,
+          "height": 77.4684
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 178.9174,
+          "y": 535.5854,
+          "width": 501.4245,
+          "height": 80.8861
+        }
+      },
+      {
+        "label": "ComboBox",
+        "coordinates": {
+          "x": 183.4758,
+          "y": 344.1931,
+          "width": 459.2593,
+          "height": 90.0
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 185.755,
+          "y": 251.9145,
+          "width": 633.6182,
+          "height": 83.1646
+        }
+      },
+      {
+        "label": "Link",
+        "coordinates": {
+          "x": 198.2906,
+          "y": 643.8133,
+          "width": 411.396,
+          "height": 86.5823
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 184.6154,
+          "y": 761.1551,
+          "width": 529.9145,
+          "height": 103.6709
+        }
+      },
+      {
+        "label": "ComboBox",
+        "coordinates": {
+          "x": 162.963,
+          "y": 140.269,
+          "width": 495.7265,
+          "height": 83.1646
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "8935c4a2-f513-45b8-8cb4-cdcae568912d.png",
+    "annotations": [
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 585.755,
+          "y": 447.8639,
+          "width": 170.9402,
+          "height": 69.4937
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 319.0883,
+          "y": 191.5348,
+          "width": 181.1966,
+          "height": 202.7848
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 601.7094,
+          "y": 516.2184,
+          "width": 159.5442,
+          "height": 43.2911
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 74.0741,
+          "y": 450.1424,
+          "width": 142.4501,
+          "height": 59.2405
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 44.4444,
+          "y": 573.1804,
+          "width": 207.4074,
+          "height": 64.9367
+        }
+      },
+      {
+        "label": "TextBox",
+        "coordinates": {
+          "x": 694.0171,
+          "y": 69.6361,
+          "width": 231.339,
+          "height": 54.6835
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 75.2137,
+          "y": 515.0791,
+          "width": 142.4501,
+          "height": 53.5443
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 606.2678,
+          "y": 401.1551,
+          "width": 151.5669,
+          "height": 41.0127
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 561.8234,
+          "y": 561.788,
+          "width": 240.4558,
+          "height": 71.7722
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 18.2336,
+          "y": 66.2184,
+          "width": 678.8291,
+          "height": 101.9494
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 330.4843,
+          "y": 403.4335,
+          "width": 159.5442,
+          "height": 36.4557
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 308.8319,
+          "y": 570.9019,
+          "width": 216.5242,
+          "height": 60.3797
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 924.2166,
+          "y": 66.2184,
+          "width": 144.7293,
+          "height": 61.519
+        }
+      },
+      {
+        "label": "Paragraph",
+        "coordinates": {
+          "x": 333.9031,
+          "y": 445.5854,
+          "width": 140.1709,
+          "height": 71.7722
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 317.9487,
+          "y": 521.9146,
+          "width": 164.1026,
+          "height": 44.4304
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 585.755,
+          "y": 180.1424,
+          "width": 193.7322,
+          "height": 222.1519
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 38.7464,
+          "y": 201.788,
+          "width": 207.4074,
+          "height": 198.2279
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 66.0969,
+          "y": 403.4335,
+          "width": 173.2194,
+          "height": 34.1772
+        }
+      }
+    ]
+  },
+  {
+    "imagefilename": "30f5f8e2-47c5-4977-933c-e005cc275663.png",
+    "annotations": [
+      {
+        "label": "RadioButton",
+        "coordinates": {
+          "x": 700.8547,
+          "y": 327.1044,
+          "width": 136.7521,
+          "height": 48.9873
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 128.7749,
+          "y": 132.2943,
+          "width": 346.4387,
+          "height": 375.9494
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 119.6581,
+          "y": 12.6741,
+          "width": 364.6724,
+          "height": 59.2405
+        }
+      },
+      {
+        "label": "Button",
+        "coordinates": {
+          "x": 666.6667,
+          "y": 663.1804,
+          "width": 477.4929,
+          "height": 110.5063
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 197.151,
+          "y": 554.9525,
+          "width": 94.5869,
+          "height": 116.2025
+        }
+      },
+      {
+        "label": "RadioButton",
+        "coordinates": {
+          "x": 688.319,
+          "y": 452.4209,
+          "width": 184.6154,
+          "height": 51.2658
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 306.5527,
+          "y": 554.9525,
+          "width": 87.7493,
+          "height": 128.7342
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 413.6752,
+          "y": 558.3703,
+          "width": 102.5641,
+          "height": 119.6203
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 690.5983,
+          "y": 197.231,
+          "width": 255.2707,
+          "height": 56.962
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 893.4473,
+          "y": 551.5348,
+          "width": 201.7094,
+          "height": 44.4304
+        }
+      },
+      {
+        "label": "Image",
+        "coordinates": {
+          "x": 92.3077,
+          "y": 549.2563,
+          "width": 91.1681,
+          "height": 127.5949
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 692.8775,
+          "y": 263.307,
+          "width": 136.7521,
+          "height": 44.4304
+        }
+      },
+      {
+        "label": "Heading",
+        "coordinates": {
+          "x": 690.5983,
+          "y": 133.4335,
+          "width": 311.1111,
+          "height": 61.519
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 671.2251,
+          "y": 551.5348,
+          "width": 135.6125,
+          "height": 41.0127
+        }
+      },
+      {
+        "label": "RadioButton",
+        "coordinates": {
+          "x": 697.4359,
+          "y": 378.3702,
+          "width": 153.8462,
+          "height": 56.962
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 896.8661,
+          "y": 594.8259,
+          "width": 136.7521,
+          "height": 59.2405
+        }
+      },
+      {
+        "label": "Label",
+        "coordinates": {
+          "x": 675.7835,
+          "y": 595.9651,
+          "width": 133.3333,
+          "height": 54.6835
+        }
+      }
+    ]
+  }
+]
